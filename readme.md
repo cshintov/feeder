@@ -1,3 +1,3 @@
 # Feeder
 
-A tool to read your favorite rss feeds in terminal and browser.
+A tool to get your favorite rss feeds in your terminal.

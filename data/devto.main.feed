@@ -1,0 +1,3352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>DEV Community</title>
+    <author>DEV Community</author>
+    <description>A constructive and inclusive social network for software developers. With you every step of your journey.</description>
+    <link>https://dev.to</link>
+    <language>en</language>
+    <item>
+      <title>50+ Free Awesome Certificates to Earn in 2021</title>
+      <author>Waleed Sadek</author>
+      <pubDate>Thu, 31 Dec 2020 14:41:18 +0000</pubDate>
+      <link>https://dev.to/panx/50-free-awesome-certificates-to-earn-in-2021-2l7g</link>
+      <guid>https://dev.to/panx/50-free-awesome-certificates-to-earn-in-2021-2l7g</guid>
+      <description>&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;&lt;br&gt;
+A curated list of free Computer Science &amp;amp; Information Technology certificates and badges.&lt;/p&gt;
+
+&lt;p&gt;Note:&lt;br&gt;
+🏅= Digital Badges &amp;amp; 🏆 = Certificate of Completion &lt;/p&gt;
+
+&lt;h2&gt;
+  &lt;a href="#why" class="anchor"&gt;
+  &lt;/a&gt;
+  Why?
+&lt;/h2&gt;
+
+&lt;p&gt;Most online certificates are paid and most employers want to see a project or a certificate that's why I've decided to make this list.&lt;br&gt;
+If you enjoy free things, then you'll appreciate this!&lt;/p&gt;
+
+&lt;h2&gt;
+  &lt;a href="#contents" class="anchor"&gt;
+  &lt;/a&gt;
+  Contents:
+&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#security"&gt;Security&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#front-end"&gt;Front-End&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#back-end"&gt;Back-End&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#blockchain"&gt;Blockchain&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#data-analysis-and-visualization"&gt;Data Analysis &amp;amp; Visualization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#statistics"&gt;Statistics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#data-science"&gt;Data Science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#big-data"&gt;Big Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#machine-and-deep-learning"&gt;Machine &amp;amp; Deep Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#networking"&gt;Networking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#operating-systems"&gt;Operating Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#robotics-and-iot"&gt;Robotics &amp;amp; IoT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#chatbots"&gt;Chatbots&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#devops"&gt;DevOps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#programming-langauges"&gt;Programming Languages&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#c"&gt;C++&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#javascript"&gt;JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#r"&gt;R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#python"&gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="#theories-and-concepts"&gt;Theories &amp;amp; Concepts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;
+  &lt;a href="#security" class="anchor"&gt;
+  &lt;/a&gt;
+  Security
+&lt;/h2&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity"&gt;Intro to Cybersecurity&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cisco Networking Academy&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/cisco/badge/introduction-to-cybersecurity"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials"&gt;Cybersecurity Essentials&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cisco Networking Academy&lt;/td&gt;
+&lt;td&gt;Intermediate&lt;/td&gt;
+&lt;td&gt;30&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/cisco/badge/cybersecurity-essentials"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://www.netacad.com/courses/packet-tracer"&gt;Intro to Packet Tracer&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cisco Networking Academy&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/cisco/badge/introduction-to-packet-tracer"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD"&gt;Cybersecurity Fundamentals&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / SkillsBuild&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/cybersecurity-fundamentals"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://www.freecodecamp.org/learn/"&gt;Information Security Certification&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;FreeCodeCamp&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;300&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h2&gt;
+  &lt;a href="#frontend" class="anchor"&gt;
+  &lt;/a&gt;
+  Front-End
+&lt;/h2&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://www.freecodecamp.org/learn/"&gt;Responsive Web Design Certification&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;FreeCodeCamp&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;300&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://www.freecodecamp.org/learn/"&gt;Front-End Libraries Certification&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;FreeCodeCamp&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;300&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h2&gt;
+  &lt;a href="#backend" class="anchor"&gt;
+  &lt;/a&gt;
+  Back-End
+&lt;/h2&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://www.freecodecamp.org/learn/"&gt;APIs and Microservices Certification&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;FreeCodeCamp&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;300&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://learn.saylor.org/course/view.php?id=84"&gt;CS403: Introduction to Modern Database Systems&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Saylor Academy&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;42&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h2&gt;
+  &lt;a href="#blockchain" class="anchor"&gt;
+  &lt;/a&gt;
+  Blockchain
+&lt;/h2&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/ibm-blockchain-foundation-dev"&gt;IBM Blockchain Foundation Developer&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/ibm-blockchain-foundation-developer-v2.1"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/blockchain-course"&gt;Blockchain Essentials&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/ibm-blockchain-essentials-v2"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h2&gt;
+  &lt;a href="#data-analysis-and-visualization" class="anchor"&gt;
+  &lt;/a&gt;
+  Data Analysis and Visualization
+&lt;/h2&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/data-analysis-python"&gt;Data Analysis with Python&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Intermediate&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/data-analysis-using-python"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://www.freecodecamp.org/learn/"&gt;Data Analysis with Python Certification&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;FreeCodeCamp&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;300&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/data-visualization-with-python"&gt;Data Visualization with Python&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Intermediate&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/data-visualization-using-python"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/data-visualization-with-r/"&gt;Data Visualization with R&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/data-visualization-with-r"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://www.freecodecamp.org/learn/"&gt;Data Visualization Certification&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;FreeCodeCamp&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;300&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h2&gt;
+  &lt;a href="#statistics" class="anchor"&gt;
+  &lt;/a&gt;
+  Statistics
+&lt;/h2&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/statistics-101"&gt;Statistics 101&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/statistics-101"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h2&gt;
+  &lt;a href="#data-science" class="anchor"&gt;
+  &lt;/a&gt;
+  Data Science
+&lt;/h2&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/data-science-methodology-2"&gt;Data Science Methodologies&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/data-science-methodologies"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/data-science-101/"&gt;Data Science 101&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/data-science-foundations-level-1"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2"&gt;Data Science Tools&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/data-science-tools"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/python-for-data-science"&gt;Python for Data Science&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/python-for-data-science"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h2&gt;
+  &lt;a href="#big-data" class="anchor"&gt;
+  &lt;/a&gt;
+  Big Data
+&lt;/h2&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/what-is-big-data"&gt;Big Data Foundations - Level 1&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/big-data-foundations-level-1"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0111EN+2016"&gt;Hadoop Foundations - Level 1&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM  / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/hadoop-foundations-level-1"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/what-is-spark"&gt;Spark Fundamentals I&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/spark-level-1"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h2&gt;
+  &lt;a href="#machine-and-deep-learning" class="anchor"&gt;
+  &lt;/a&gt;
+  Machine and Deep Learning
+&lt;/h2&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/introduction-deep-learning"&gt;Deep Learning Fundamentals&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Intermediate&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/deep-learning-essentials"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/deep-learning-tensorflow"&gt;Deep Learning with TensorFlow&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/deep-learning-using-tensorflow"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/machine-learning-sound/"&gt;Introduction to Machine Learning with Sound&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/introduction-to-machine-learning-with-sound"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/machine-learning-with-python/"&gt;Machine Learning with Python&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/machine-learning-with-python-level-1"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://www.freecodecamp.org/learn/"&gt;Machine Learning with Python Certification&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;FreeCodeCamp&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;300&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h2&gt;
+  &lt;a href="#networking" class="anchor"&gt;
+  &lt;/a&gt;
+  Networking
+&lt;/h2&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://www.netacad.com/courses/networking/networking-essentials"&gt;Networking Essentials&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cisco Networking Academy&lt;/td&gt;
+&lt;td&gt;Intermediate&lt;/td&gt;
+&lt;td&gt;70&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/cisco/badge/networking-essentials"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h2&gt;
+  &lt;a href="#operating-systems" class="anchor"&gt;
+  &lt;/a&gt;
+  Operating Systems
+&lt;/h2&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://www.netacad.com/courses/os-it/ndg-linux-unhatched"&gt;NDG Linux Unhatched&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cisco Networking Academy&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://www.netacad.com/courses/os-it/ndg-linux-essentials"&gt;NDG Linux Essentials&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cisco Networking Academy&lt;/td&gt;
+&lt;td&gt;Intermediate&lt;/td&gt;
+&lt;td&gt;70&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://learn.saylor.org/course/view.php?id=94"&gt;CS401: Operating Systems&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Saylor Academy&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;120&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h2&gt;
+  &lt;a href="#robotics-and-iot" class="anchor"&gt;
+  &lt;/a&gt;
+  Robotics and IoT
+&lt;/h2&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://www.netacad.com/courses/iot/introduction-iot"&gt;Introduction to IoT&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cisco Networking Academy&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/cisco/badge/introduction-to-iot"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/build-robots-with-tjbot"&gt;Building Robots with TJBot&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/building-robots-with-tjbot"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h2&gt;
+  &lt;a href="#chatbots" class="anchor"&gt;
+  &lt;/a&gt;
+  Chatbots
+&lt;/h2&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/how-to-build-a-chatbot"&gt;How to Build Chatbots&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/build-your-own-chatbot-level-1"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h2&gt;
+  &lt;a href="#devops" class="anchor"&gt;
+  &lt;/a&gt;
+  DevOps
+&lt;/h2&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud"&gt;Containers, K8s and Istio on IBM cloud&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/docker-essentials"&gt;Docker Essentials&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/docker-essentials-a-developer-introduction"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/ibm-cloud-essentials"&gt;IBM Cloud Essentials&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/ibm-cloud-essentials.2"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/kubernetes-course"&gt;Introduction to Containers, Kubernetes, and OpenShift&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/containers-kubernetes-essentials"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h2&gt;
+  &lt;a href="#programming-langauges" class="anchor"&gt;
+  &lt;/a&gt;
+  Programming Langauges
+&lt;/h2&gt;
+
+&lt;h3&gt;
+  &lt;a href="#c" class="anchor"&gt;
+  &lt;/a&gt;
+  C
+&lt;/h3&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://learn.saylor.org/course/view.php?id=65"&gt;CS107: C++ Programming&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Saylor Academy&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;40&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h3&gt;
+  &lt;a href="#javascript" class="anchor"&gt;
+  &lt;/a&gt;
+  JavaScript
+&lt;/h3&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://www.freecodecamp.org/learn/"&gt;JavaScript Algorithms and Data Structures Certification&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;FreeCodeCamp&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;300&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h3&gt;
+  &lt;a href="#r" class="anchor"&gt;
+  &lt;/a&gt;
+  R
+&lt;/h3&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/data-science-101/"&gt;R Essentials&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/r-essentials"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://cognitiveclass.ai/courses/using-r-with-databases/"&gt;Using R with Databases&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;IBM / Cognitive Class&lt;/td&gt;
+&lt;td&gt;Beginner&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://www.youracclaim.com/org/ibm/badge/using-r-with-databases"&gt;🏅&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h3&gt;
+  &lt;a href="#python" class="anchor"&gt;
+  &lt;/a&gt;
+  Python
+&lt;/h3&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://www.netacad.com/courses/programming/pcap-programming-essentials-python"&gt;Programming Essentials In Python&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cisco Networking Academy&lt;/td&gt;
+&lt;td&gt;Intermediate&lt;/td&gt;
+&lt;td&gt;70&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://www.freecodecamp.org/learn/"&gt;Scientific Computing with Python Certification&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;FreeCodeCamp&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;300&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h2&gt;
+  &lt;a href="#theories-and-concepts" class="anchor"&gt;
+  &lt;/a&gt;
+  Theories and Concepts
+&lt;/h2&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Name&lt;/th&gt;
+&lt;th&gt;Course Provider&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Hours&lt;/th&gt;
+&lt;th&gt;Reward&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://www.freecodecamp.org/learn/"&gt;Quality Assurance Certification&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;FreeCodeCamp&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;300&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://learn.saylor.org/course/view.php?id=6"&gt;CS101: Introduction to Computer Science I&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Saylor Academy&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;52&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://learn.saylor.org/course/view.php?id=64"&gt;CS102: Introduction to Computer Science II&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Saylor Academy&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;42&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://learn.saylor.org/course/view.php?id=66"&gt;CS201: Elementary Data Structures&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Saylor Academy&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;38&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://learn.saylor.org/course/view.php?id=67"&gt;CS202: Discrete Structures&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Saylor Academy&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;44&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://learn.saylor.org/course/view.php?id=71"&gt;CS301: Computer Architecture&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Saylor Academy&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;48&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://learn.saylor.org/course/view.php?id=73"&gt;CS302: Software Engineering&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Saylor Academy&lt;/td&gt;
+&lt;td&gt;Professional&lt;/td&gt;
+&lt;td&gt;45&lt;/td&gt;
+&lt;td&gt;🏆&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;h2&gt;
+  &lt;a href="#whats-next" class="anchor"&gt;
+  &lt;/a&gt;
+  What's next?
+&lt;/h2&gt;
+
+&lt;p&gt;Awesome Certificates is hosted on &lt;a href="https://github.com/PanXProject/awesome-certificates/"&gt;Github&lt;/a&gt; so that anyone can contribute to it. If you know any free certificates or have any suggestions you can simply add it to list by opening a &lt;a href="https://github.com/PanXProject/awesome-certificates/issues/new/choose"&gt;new issue&lt;/a&gt;, I'd love to hear/see them. Have an awesome year!&lt;/p&gt;
+
+</description>
+      <category>career</category>
+      <category>computerscience</category>
+      <category>showdev</category>
+      <category>contributorswanted</category>
+    </item>
+    <item>
+      <title>Create a tag cloud with HTML and CSS</title>
+      <author>Alvaro Montoro</author>
+      <pubDate>Thu, 31 Dec 2020 13:31:42 +0000</pubDate>
+      <link>https://dev.to/alvaromontoro/create-a-tag-cloud-with-html-and-css-1e90</link>
+      <guid>https://dev.to/alvaromontoro/create-a-tag-cloud-with-html-and-css-1e90</guid>
+      <description>&lt;p&gt;A tag cloud is a list of links associated with a term or a tag. It is common to see them in blogs and websites to highlight popular topics visually: more popular words/categories will have larger font sizes, and less popular topics will be presented in smaller font sizes:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--7ZFF03je--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/3cz64ioz07pm9w9h165j.png" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7ZFF03je--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/3cz64ioz07pm9w9h165j.png" alt="Cloud of words of different sizes, the larger and darker ones are: world, freedom, citizens, generation, America, country"&gt;&lt;/a&gt;&lt;/p&gt;
+Word cloud from JFK's inauguration speech. Generated by &lt;a href="https://tagcrowd.com/"&gt;TagCrowd.com&lt;/a&gt;
+
+
+
+&lt;p&gt;Without getting into the details of their efficiency and usability (&lt;a href="https://www.nngroup.com/articles/tag-cloud-examples/"&gt;or lack thereof&lt;/a&gt;), tag/word clouds are eye-catchy and pretty, and a nice way to visualize the overall content of a site or article.&lt;/p&gt;
+
+&lt;p&gt;In this article, we will see how to create a tag cloud in HTML and CSS. It is important to note that &lt;strong&gt;each term's weights/popularity will have to be pre-calculated using a different language&lt;/strong&gt;. We are going to focus exclusively on the presentation.&lt;/p&gt;
+
+&lt;h2&gt;
+  &lt;a href="#basic-html-structure" class="anchor"&gt;
+  &lt;/a&gt;
+  Basic HTML structure
+&lt;/h2&gt;
+
+&lt;p&gt;As we mentioned before, &lt;strong&gt;a tag cloud is a list of links&lt;/strong&gt;. So, from a semantic perspective, it makes sense to use an &lt;a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul"&gt;unordered list (&lt;code&gt;&amp;lt;ul&amp;gt;&lt;/code&gt;)&lt;/a&gt; as the terms will not be sorted by popularity... otherwise, it would be a rather boring cloud.&lt;/p&gt;
+
+&lt;p&gt;Inside each list item, there will be a link to the tag/term search page. Which would lead us to a basic yet straightforward structure:&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight html"&gt;&lt;code&gt;&lt;span class="nt"&gt;&amp;lt;ul&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/word1"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Word1&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/word2"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Word2&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/word3"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Word3&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="c"&gt;&amp;lt;!-- ... --&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;/ul&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;The popularity (or weight) of each word will be pre-calculated, and it should be added to each item in the &lt;code&gt;&amp;lt;li&amp;gt;&lt;/code&gt; or the &lt;code&gt;&amp;lt;a&amp;gt;.&lt;/code&gt; We'll opt to have it on the link, but it could be at the list item level.&lt;/p&gt;
+
+&lt;p&gt;A higher weight means that the tag is more popular and it should be displayed in a larger font size:&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight html"&gt;&lt;code&gt;&lt;span class="nt"&gt;&amp;lt;ul&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/word1"&lt;/span&gt; &lt;span class="na"&gt;data-weight=&lt;/span&gt;&lt;span class="s"&gt;"3"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Word1&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/word2"&lt;/span&gt; &lt;span class="na"&gt;data-weight=&lt;/span&gt;&lt;span class="s"&gt;"7"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Word2&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/word3"&lt;/span&gt; &lt;span class="na"&gt;data-weight=&lt;/span&gt;&lt;span class="s"&gt;"4"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Word3&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="c"&gt;&amp;lt;!-- ... --&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;/ul&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;blockquote&gt;
+&lt;p&gt;Note: an alternative would be to have a &lt;code&gt;data-count&lt;/code&gt; and &lt;code&gt;data-total&lt;/code&gt; and calculate the weight directly on CSS. This is possible following the standard, but no browser supports it yet (as we will see later). To avoid that, we could have two data-attributes: &lt;code&gt;data-weight&lt;/code&gt; and &lt;code&gt;data-count&lt;/code&gt; for each tag. That would work better. For simplicity reasons, we will focus on only one data-attribute: &lt;code&gt;data-weight.&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;With that, we are almost done with the HTML structure –there will be some changes later, but let's not get ahead of ourselves–, we still want to tweak a little bit the &lt;code&gt;&amp;lt;ul&amp;gt;&lt;/code&gt; to add some attributes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;code&gt;class&lt;/code&gt;: which will be helpful to target which lists to style as a cloud.&lt;/li&gt;
+&lt;li&gt;
+&lt;code&gt;role&lt;/code&gt;: this is a navigational component; we want to identify it to screen readers and other assistive technologies (AT).&lt;/li&gt;
+&lt;li&gt;
+&lt;code&gt;aria-label&lt;/code&gt;: used to give it a "title" or description to ATs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Note: we may skip the &lt;code&gt;role="navigation"&lt;/code&gt; if the list is inside a &lt;code&gt;&amp;lt;nav&amp;gt;&lt;/code&gt; tag. Instead of &lt;code&gt;aria-label,&lt;/code&gt; we could use &lt;code&gt;aria-labelledby&lt;/code&gt; to point to a navigation title.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Let's expand the HTML from our example, also including Web Development terms to make it a more realistic example:&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight html"&gt;&lt;code&gt;&lt;span class="nt"&gt;&amp;lt;ul&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;"cloud"&lt;/span&gt; &lt;span class="na"&gt;role=&lt;/span&gt;&lt;span class="s"&gt;"navigation"&lt;/span&gt; &lt;span class="na"&gt;aria-label=&lt;/span&gt;&lt;span class="s"&gt;"Webdev tag cloud"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;data-weight=&lt;/span&gt;&lt;span class="s"&gt;"4"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/http"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;HTTP&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;data-weight=&lt;/span&gt;&lt;span class="s"&gt;"2"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/ember"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Ember&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;data-weight=&lt;/span&gt;&lt;span class="s"&gt;"5"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/sass"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Sass&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;data-weight=&lt;/span&gt;&lt;span class="s"&gt;"8"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/html"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;HTML&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;data-weight=&lt;/span&gt;&lt;span class="s"&gt;"6"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/flexbox"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;FlexBox&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;data-weight=&lt;/span&gt;&lt;span class="s"&gt;"4"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/api"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;API&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;data-weight=&lt;/span&gt;&lt;span class="s"&gt;"5"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/vuejs"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;VueJS&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;data-weight=&lt;/span&gt;&lt;span class="s"&gt;"6"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/grid"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Grid&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;data-weight=&lt;/span&gt;&lt;span class="s"&gt;"3"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/rest"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Rest&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;data-weight=&lt;/span&gt;&lt;span class="s"&gt;"9"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/javascript"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;JavaScript&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;data-weight=&lt;/span&gt;&lt;span class="s"&gt;"3"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/animation"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Animation&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;data-weight=&lt;/span&gt;&lt;span class="s"&gt;"7"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/react"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;React&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;data-weight=&lt;/span&gt;&lt;span class="s"&gt;"8"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/css"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;CSS&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;data-weight=&lt;/span&gt;&lt;span class="s"&gt;"1"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/cache"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Cache&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;data-weight=&lt;/span&gt;&lt;span class="s"&gt;"3"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/tag/less"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Less&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;/ul&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;This is how our tag cloud looks like right now:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--wVCk24PT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/4zk7klbmns9k6cmn4e8i.png" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--wVCk24PT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/4zk7klbmns9k6cmn4e8i.png" alt="Non-styled list of items generated from the code above"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It is just a simple list of links without styles or any eye-popping features... let's change that.&lt;/p&gt;
+
+&lt;h2&gt;
+  &lt;a href="#styling-the-tag-cloud" class="anchor"&gt;
+  &lt;/a&gt;
+  Styling the tag cloud
+&lt;/h2&gt;
+
+&lt;p&gt;These are the features that we are going to add with CSS:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Remove the list look-and-feel and make it inline.&lt;/li&gt;
+&lt;li&gt;Make tags' font-size depend directly on the value of &lt;code&gt;data-weight.&lt;/code&gt;
+&lt;/li&gt;
+&lt;li&gt;Add the tag's weight next to the label.&lt;/li&gt;
+&lt;li&gt;"Randomize" tags' colors to provide.&lt;/li&gt;
+&lt;li&gt;Animate the &lt;code&gt;:hover&lt;/code&gt; and &lt;code&gt;:focus&lt;/code&gt; status, providing an accessible alternative to avoid motion.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;
+  &lt;a href="#styling-the-raw-ltulgt-endraw-" class="anchor"&gt;
+  &lt;/a&gt;
+  Styling the &lt;code&gt;&amp;lt;ul&amp;gt;&lt;/code&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;First, we delete the circles in the list items and remove the list indentation with &lt;a href="https://developer.mozilla.org/en-US/docs/Web/CSS/list-style"&gt;&lt;code&gt;list-style&lt;/code&gt;&lt;/a&gt; and a &lt;code&gt;padding-left&lt;/code&gt; of zero:&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;  list-style: none;
+  padding-left: 0;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;Then, we set the &lt;code&gt;ul&lt;/code&gt;'s display to &lt;a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox"&gt;Flexbox&lt;/a&gt;, center align the items vertically and horizontally and make sure that all elements will be visible by wrapping into multiple lines:&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;After adding a &lt;code&gt;line-height&lt;/code&gt; to ensure some vertical word spacing, the final styles for the &lt;code&gt;ul&lt;/code&gt; look like this:&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight css"&gt;&lt;code&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nl"&gt;list-style&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;none&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;padding-left&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;display&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;flex&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;flex-wrap&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;wrap&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;align-items&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;center&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;justify-content&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;center&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;line-height&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;2.5rem&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;Our tag cloud still doesn't look much like a tag cloud:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--rNJsUvNC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/jo89cez6bt4r9siws80f.png" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rNJsUvNC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/jo89cez6bt4r9siws80f.png" alt="A list of web development terms, all the same size, stuck horizontally"&gt;&lt;/a&gt;&lt;/p&gt;
+Not great... but things will improve soon...
+
+
+
+&lt;h3&gt;
+  &lt;a href="#adjust-tag-size-depending-on-the-weightpopularity" class="anchor"&gt;
+  &lt;/a&gt;
+  Adjust tag size depending on the weight/popularity
+&lt;/h3&gt;
+
+&lt;p&gt;Let's start by styling the links a little:&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight css"&gt;&lt;code&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nl"&gt;color&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;#a33&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;display&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;block&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;font-size&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;1.5rem&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;padding&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;0.125rem&lt;/span&gt; &lt;span class="m"&gt;0.25rem&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;text-decoration&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;none&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;position&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;relative&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;With the styles above, all the tags/words will be red-ish and have a fixed size of 1.5 rem:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--vONpx2kb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/vws2b6822g10bwzq56u8.png" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--vONpx2kb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/vws2b6822g10bwzq56u8.png" alt="A list of web development terms, all the same size, but nicely separated and wrapping into multiple lines"&gt;&lt;/a&gt;&lt;/p&gt;
+The cloud starts looking like a cloud
+
+
+
+&lt;p&gt;We want to have a font-size based on the &lt;code&gt;data-weight&lt;/code&gt; attribute. So... how can we do that?&lt;/p&gt;
+
+&lt;p&gt;The web standard includes a way of reading HTML data-attributes from CSS by using the &lt;a href="https://drafts.csswg.org/css-values-3/#attr-notation"&gt;&lt;code&gt;attr()&lt;/code&gt; function&lt;/a&gt;. We can read the value of &lt;code&gt;data-weight&lt;/code&gt; by doing something like this:&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;attr([attribute-name] [attribute-unit]? [, default-value]?)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;Unfortunately, &lt;strong&gt;that notation and functionality are not supported by any browser at the moment&lt;/strong&gt;. Instead, &lt;code&gt;attr()&lt;/code&gt; will only return a string and can only be used in the &lt;code&gt;content&lt;/code&gt; property.&lt;/p&gt;
+
+&lt;p&gt;If the standard notation worked, we could read the data-attributes with the weight (or the total and the count, as described above), save them into a &lt;a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties"&gt;CSS variable&lt;/a&gt;, and &lt;a href="https://developer.mozilla.org/en-US/docs/Web/CSS/calc()"&gt;do operations&lt;/a&gt; directly with them, like this:&lt;/p&gt;
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight scss"&gt;&lt;code&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="na"&gt;--size&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nf"&gt;attr&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;data-weight&lt;/span&gt; &lt;span class="n"&gt;number&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="m"&gt;2&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt; 
+  &lt;span class="nl"&gt;font-size&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nf"&gt;calc&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nf"&gt;var&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="o"&gt;--&lt;/span&gt;&lt;span class="n"&gt;size&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt; &lt;span class="m"&gt;1rem&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+Beware: this won't work!
+
+
+&lt;p&gt;...But we cannot do that. Instead, we can add a set of CSS rules with the &lt;a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors"&gt;selectors based on an attribute&lt;/a&gt;: the data-attribute.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight css"&gt;&lt;code&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="nt"&gt;data-weight&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;"1"&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="py"&gt;--size&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="nt"&gt;data-weight&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;"2"&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="py"&gt;--size&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;2&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="nt"&gt;data-weight&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;"3"&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="py"&gt;--size&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;3&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="nt"&gt;data-weight&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;"4"&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="py"&gt;--size&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;4&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="nt"&gt;data-weight&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;"5"&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="py"&gt;--size&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;5&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="nt"&gt;data-weight&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;"6"&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="py"&gt;--size&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;6&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="nt"&gt;data-weight&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;"7"&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="py"&gt;--size&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;7&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="nt"&gt;data-weight&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;"8"&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="py"&gt;--size&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;8&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="nt"&gt;data-weight&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;"9"&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="py"&gt;--size&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;9&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="py"&gt;--size&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;4&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;font-size&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;calc&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;var&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;--size&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="err"&gt;*&lt;/span&gt; &lt;span class="m"&gt;0.25rem&lt;/span&gt; &lt;span class="err"&gt;+&lt;/span&gt; &lt;span class="m"&gt;0.5rem&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="c"&gt;/* ... */&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;That, combined with the new function to calculate the font-size (keeping the original one caused too large sizes), results in a basic tag cloud:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--DTlvwMqq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9sntz2weqa2ng1fhkl4h.png" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--DTlvwMqq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9sntz2weqa2ng1fhkl4h.png" alt="Word cloud with web development terms"&gt;&lt;/a&gt;&lt;/p&gt;
+Not bad for less than 50 lines of HTML &amp;amp; CSS
+
+
+
+&lt;p&gt;This is only our first iteration. With just a few more CSS lines, we can add more flair (and functionality) to the component.&lt;/p&gt;
+
+&lt;h3&gt;
+  &lt;a href="#add-the-tags-popularity-next-to-the-label" class="anchor"&gt;
+  &lt;/a&gt;
+  Add the tag's popularity next to the label
+&lt;/h3&gt;
+
+&lt;p&gt;Many tag clouds display not only the term but also the weight/value next to it.&lt;/p&gt;
+
+&lt;p&gt;We have the value. It's in the data-attribute that we use to specify the font-size. And displaying a data-attribute is straightforward in the &lt;code&gt;content&lt;/code&gt; of a pseudo-element like &lt;code&gt;::after&lt;/code&gt;:&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight scss"&gt;&lt;code&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="nt"&gt;data-show-value&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="nd"&gt;::after&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nl"&gt;content&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="s2"&gt;" ("&lt;/span&gt; &lt;span class="nf"&gt;attr&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;data-weight&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="s2"&gt;")"&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;font-size&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;1rem&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;We added an attribute selector to the cloud: &lt;code&gt;[data-show-value]&lt;/code&gt;. That is by design. By adding it, the value/count/weight will only be displayed if the list has the data-attribute &lt;code&gt;data-show-value&lt;/code&gt;. If it doesn't have it, then the number will not be displayed.&lt;/p&gt;
+
+&lt;p&gt;That way, we are adding customization to our web component: &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Add &lt;code&gt;data-show-value&lt;/code&gt;: the numbers are displayed&lt;/li&gt;
+&lt;li&gt;Remove/Don't add &lt;code&gt;data-show-value&lt;/code&gt;: the numbers are not displayed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Note: the data-attribute &lt;code&gt;data-show-value&lt;/code&gt; is a boolean that works like &lt;code&gt;controls&lt;/code&gt; in a &lt;code&gt;video&lt;/code&gt; tag: as soon as it appears, it will activate the functionality, even if the value passed is "false."&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Adding &lt;code&gt;data-show-value&lt;/code&gt; will result in our word cloud looking like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--CUmGaxVz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/mdhuykv1lluwr2xb9dab.png" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--CUmGaxVz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/mdhuykv1lluwr2xb9dab.png" alt="Word cloud with web development terms and their weights between parenthesis"&gt;&lt;/a&gt;&lt;/p&gt;
+I'm not a big fan of this visualization
+
+
+
+&lt;p&gt;We will deactivate/remove that attribute for the rest of the demo.&lt;/p&gt;
+
+&lt;h3&gt;
+  &lt;a href="#add-colors" class="anchor"&gt;
+  &lt;/a&gt;
+  Add colors
+&lt;/h3&gt;
+
+&lt;p&gt;A monochrome cloud looks dull. We are going to spice it up by adding colors. And we are going to try two different approaches.&lt;/p&gt;
+
+&lt;h4&gt;
+  &lt;a href="#using-random-colors" class="anchor"&gt;
+  &lt;/a&gt;
+  Using "random" colors
+&lt;/h4&gt;
+
+&lt;p&gt;There's no randomness in CSS (&lt;a href="https://css-tricks.com/are-there-random-numbers-in-css/"&gt;although it can be simulated&lt;/a&gt;). What we will do is add different colors to the tags, depending on their order by using the following selectors:&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight scss"&gt;&lt;code&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="nd"&gt;:nth-child&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nt"&gt;2n&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="nt"&gt;1&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="na"&gt;--color&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="mh"&gt;#181&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="nd"&gt;:nth-child&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nt"&gt;3n&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="nt"&gt;1&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="na"&gt;--color&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="mh"&gt;#33a&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="nd"&gt;:nth-child&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="nt"&gt;4n&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="nt"&gt;1&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt; &lt;span class="na"&gt;--color&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="mh"&gt;#c38&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;This way, we will be adding some green, blue, and purple to the already existing red color. They will follow a pattern, but this may not be obvious to the user:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--0qbgAXPd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/wc7h9bg0uoy42w3j1cem.png" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0qbgAXPd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/wc7h9bg0uoy42w3j1cem.png" alt="Word cloud with web development terms in different colors"&gt;&lt;/a&gt;&lt;/p&gt;
+Make sure the colors have enough contrast
+
+
+
+&lt;h4&gt;
+  &lt;a href="#using-different-tones-of-the-same-color" class="anchor"&gt;
+  &lt;/a&gt;
+  Using different tones of the same color
+&lt;/h4&gt;
+
+&lt;p&gt;Similar to what TagCrowd does (see the first image), we can highlight the popular tags by adding more contrast. On a light background, this can be achieved by making them darker.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href="https://dev.to/alvaromontoro/hsl-2fom"&gt;HSL color format&lt;/a&gt; would be incredibly convenient for this. But a quicker option could be making the tag semitransparent inversely proportional to the &lt;code&gt;data-weight&lt;/code&gt; (transformed into the CSS variable &lt;code&gt;--size&lt;/code&gt;):&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight css"&gt;&lt;code&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nl"&gt;opacity&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;calc&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="m"&gt;15&lt;/span&gt; &lt;span class="n"&gt;-&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="m"&gt;9&lt;/span&gt; &lt;span class="n"&gt;-&lt;/span&gt; &lt;span class="n"&gt;var&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;--size&lt;/span&gt;&lt;span class="p"&gt;)))&lt;/span&gt; &lt;span class="p"&gt;/&lt;/span&gt; &lt;span class="m"&gt;15&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt; 
+  &lt;span class="c"&gt;/* ... */&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;With this code (instead of the one in the previous section), the tag cloud looks like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--UDMVOFsb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/5ahqz8bal2ew6z4u3oyq.png" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--UDMVOFsb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/5ahqz8bal2ew6z4u3oyq.png" alt="Word cloud with web development terms in different tones of the same color"&gt;&lt;/a&gt;&lt;/p&gt;
+I find this option more &lt;em&gt;elegant&lt;/em&gt;... but not as accessible
+
+
+
+&lt;h3&gt;
+  &lt;a href="#customize-outline" class="anchor"&gt;
+  &lt;/a&gt;
+  Customize outline
+&lt;/h3&gt;
+
+&lt;p&gt;It is important to be &lt;strong&gt;extremely careful when touching the &lt;a href="https://developer.mozilla.org/en-US/docs/Web/CSS/outline"&gt;&lt;code&gt;outline&lt;/code&gt;&lt;/a&gt;&lt;/strong&gt;. It is a key property for accessibility, and a bad value could make the component (or the whole website) difficult to use for people with disabilities.&lt;/p&gt;
+
+&lt;p&gt;In this case, we will add a border of the same color as the text, replacing (&lt;strong&gt;not removing&lt;/strong&gt;) the default outline on focus.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight css"&gt;&lt;code&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="nd"&gt;:focus&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nl"&gt;outline&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;1px&lt;/span&gt; &lt;span class="nb"&gt;dashed&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;And again: extreme caution when changing the outline. This section is optional.&lt;/p&gt;
+
+&lt;h3&gt;
+  &lt;a href="#add-animations" class="anchor"&gt;
+  &lt;/a&gt;
+  Add animations
+&lt;/h3&gt;
+
+&lt;p&gt;To add some interactivity, we will add a simple animation: when the user focuses on or hovers over one of the links, the background will change color horizontally.&lt;/p&gt;
+
+&lt;p&gt;Because it is an animation depending on the state, we will use &lt;a href="https://developer.mozilla.org/en-US/docs/Web/CSS/transition"&gt;&lt;code&gt;transition&lt;/code&gt;&lt;/a&gt; instead of the &lt;a href="https://developer.mozilla.org/en-US/docs/Web/CSS/animation"&gt;&lt;code&gt;animation&lt;/code&gt;&lt;/a&gt; property.&lt;/p&gt;
+
+&lt;p&gt;We will add a &lt;code&gt;::before&lt;/code&gt; pseudo-element with no width, and on &lt;code&gt;:focus&lt;/code&gt; or &lt;code&gt;:hover&lt;/code&gt;, we will update the width to 100% of the container, creating a micro-interaction.&lt;/p&gt;
+
+&lt;p&gt;The CSS code or the pseudo-element and the state behavior is:&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight css"&gt;&lt;code&gt;&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="nd"&gt;::before&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nl"&gt;content&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="s1"&gt;""&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;position&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;absolute&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;top&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;left&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;50%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;width&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;height&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;100%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;background&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;var&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;--color&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="nl"&gt;transform&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;translate&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="m"&gt;-50%&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="nl"&gt;opacity&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;0.15&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;transition&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;width&lt;/span&gt; &lt;span class="m"&gt;0.25s&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="nd"&gt;:focus::before&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt;
+&lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="nd"&gt;:hover::before&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nl"&gt;width&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;100%&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;One final point for the animations: users may not like them and have them disabled. If that's the case, it is &lt;strong&gt;important to respect the user's preferences&lt;/strong&gt; and remove the animations.&lt;/p&gt;
+
+&lt;p&gt;This can be achieved with the [&lt;code&gt;prefers-reduced-motion&lt;/code&gt;] media feature](&lt;a href="https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion"&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion&lt;/a&gt;).&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight css"&gt;&lt;code&gt;&lt;span class="k"&gt;@media&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;prefers-reduced-motion&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nt"&gt;ul&lt;/span&gt;&lt;span class="nc"&gt;.cloud&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="nl"&gt;transition&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;none&lt;/span&gt; &lt;span class="cp"&gt;!important&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;And with that, our tag cloud is complete! Here is a demo with all the code above together:&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe height="600" src="https://codepen.io/alvaromontoro/embed/mdrpLzj?height=600&amp;amp;default-tab=result&amp;amp;embed-version=2"&gt;
+&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;h2&gt;
+  &lt;a href="#conclusion" class="anchor"&gt;
+  &lt;/a&gt;
+  Conclusion
+&lt;/h2&gt;
+
+&lt;p&gt;There are many ways to create a tag cloud: with HTML and CSS, with lists, without lists, using JavaScript... All (or most) of them valid and beautiful. &lt;/p&gt;
+
+&lt;p&gt;I'm not going to claim that the one described above is the best way, but it is possibly one of the simplest clouds you will find. And also quite complete: different variants, customizable, less than 100 lines of code between HTML and CSS... And it's that simplicity and potential that makes it so pretty.&lt;/p&gt;
+
+&lt;p&gt;And it has room for improvement and expansion, which is always nice. So if you try building a word/tag cloud following this post, please share a link with a demo!&lt;/p&gt;
+
+</description>
+      <category>html</category>
+      <category>css</category>
+      <category>webdev</category>
+      <category>tutorial</category>
+    </item>
+    <item>
+      <title>Sleep function in javaScript</title>
+      <author>Rahul kumar</author>
+      <pubDate>Thu, 31 Dec 2020 10:29:23 +0000</pubDate>
+      <link>https://dev.to/ats1999/sleep-function-in-javascript-785</link>
+      <guid>https://dev.to/ats1999/sleep-function-in-javascript-785</guid>
+      <description>&lt;p&gt;&lt;code&gt;JavaScript&lt;/code&gt; provides setTimeout() and setInterval() methods to delay execution of script. But, it doesn't provide any way to sleep execution at a single line. Let's build our custom sleep method.&lt;/p&gt;
+
+&lt;h2&gt;
+  &lt;a href="#toc" class="anchor"&gt;
+  &lt;/a&gt;
+  TOC
+&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Prerequisites&lt;/li&gt;
+&lt;li&gt;idea&lt;/li&gt;
+&lt;li&gt;sleep API&lt;/li&gt;
+&lt;li&gt;uses&lt;/li&gt;
+&lt;li&gt;live interactive demo&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;
+  &lt;a href="#prerequisites" class="anchor"&gt;
+  &lt;/a&gt;
+  Prerequisites
+&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"&gt;Promise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function"&gt;async&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await"&gt;await&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.mozilla.org/en-US/docs/Archive/Add-ons/Code_snippets/Timers"&gt;setTimeout&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I am assuming that you know the above prerequisites.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Idea is to use a promise to wait for a number of milliseconds. We know, we can delay the execution of certain script using &lt;code&gt;await&lt;/code&gt;. Using await we can run the next script after the promise is resolved or rejected.&lt;/p&gt;
+
+&lt;h2&gt;
+  &lt;a href="#lets-build-our-sleep-api" class="anchor"&gt;
+  &lt;/a&gt;
+  Let's build our sleep API
+&lt;/h2&gt;
+
+
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight javascript"&gt;&lt;code&gt;&lt;span class="kd"&gt;function&lt;/span&gt; &lt;span class="nx"&gt;sleep&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;ms&lt;/span&gt;&lt;span class="p"&gt;){&lt;/span&gt;
+  &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="k"&gt;new&lt;/span&gt; &lt;span class="nb"&gt;Promise&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="nx"&gt;resolve&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;=&amp;gt;&lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="nx"&gt;setTimeout&lt;/span&gt;&lt;span class="p"&gt;(()&lt;/span&gt;&lt;span class="o"&gt;=&amp;gt;&lt;/span&gt;&lt;span class="nx"&gt;resolve&lt;/span&gt;&lt;span class="p"&gt;(),&lt;/span&gt;&lt;span class="nx"&gt;ms&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="p"&gt;})&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;The above sleep API will wait for some milliseconds, then it resolves the promise.&lt;/p&gt;
+
+&lt;h2&gt;
+  &lt;a href="#uses" class="anchor"&gt;
+  &lt;/a&gt;
+  Uses
+&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;make sure to call this API inside the &lt;code&gt;async&lt;/code&gt; function&lt;br&gt;
+&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight javascript"&gt;&lt;code&gt;&lt;span class="k"&gt;async&lt;/span&gt; &lt;span class="kd"&gt;function&lt;/span&gt; &lt;span class="nx"&gt;test&lt;/span&gt;&lt;span class="p"&gt;(){&lt;/span&gt;
+    &lt;span class="c1"&gt;// wait for 3 seconds&lt;/span&gt;
+    &lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;log&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;Waiting...&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+    &lt;span class="k"&gt;await&lt;/span&gt; &lt;span class="nx"&gt;sleep&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;3000&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt; 
+    &lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;log&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;The wait is over&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;h2&gt;
+  &lt;a href="#live-demo" class="anchor"&gt;
+  &lt;/a&gt;
+  Live demo
+&lt;/h2&gt;
+
+&lt;p&gt;See the Pen &lt;a href="https://codepen.io/ats1999/pen/oNzpMZN"&gt;oNzpMZN&lt;/a&gt; by Rahul kumar&lt;br&gt;
+  (&lt;a href="https://codepen.io/ats1999"&gt;@ats1999&lt;/a&gt;) on &lt;a href="https://codepen.io"&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+      <category>react</category>
+      <category>node</category>
+      <category>javascript</category>
+    </item>
+    <item>
+      <title>VSChat | Chat online in VSCode</title>
+      <author>Banji</author>
+      <pubDate>Thu, 31 Dec 2020 09:54:55 +0000</pubDate>
+      <link>https://dev.to/banji220/vschat-chat-online-in-vscode-33p1</link>
+      <guid>https://dev.to/banji220/vschat-chat-online-in-vscode-33p1</guid>
+      <description>&lt;p&gt;Hey Everyone&lt;br&gt;
+Wassup?&lt;br&gt;
+Today I was reading an article about a cool extension in VSCode that you can chat &lt;strong&gt;anonymously&lt;/strong&gt; !(without registration)&lt;/p&gt;
+
+&lt;p&gt;I think it could be an amazing extension in VSCode for programmers and developers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VSChat&lt;/strong&gt; is developing by &lt;em&gt;&lt;a href="https://github.com/Ademking/vsChat"&gt;Adem Kouki&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Let's take a look at the VSChat screenshot on my desktop :)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--xRYqACjS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/f87j3tq0n7ml3iodif70.png" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xRYqACjS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/f87j3tq0n7ml3iodif70.png" alt="Alt Text"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Youtube Demo&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Take a look at &lt;strong&gt;&lt;a href="https://youtu.be/jaNGBBn8BJE"&gt;VSChat Youtube Deme&lt;/a&gt;&lt;/strong&gt; youtube demo.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;How to Download?&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You can download &lt;strong&gt;&lt;a href="https://marketplace.visualstudio.com/items?itemName=Ademking.vschat"&gt;VSChat&lt;/a&gt;&lt;/strong&gt; in the VSCode marketplace.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Chat while programming&lt;/li&gt;
+&lt;li&gt;No need to register(Chat anonymously)&lt;/li&gt;
+&lt;li&gt;If you type @ + username, like @ matt, it will highlight the message to that user. Click the circle avatar to quickly add it to the input.&lt;/li&gt;
+&lt;li&gt;If you paste a link to an image, it will show the image inline. Also, pasted URLs will turn into links.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Rules&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Be positive &amp;amp; helpful&lt;/li&gt;
+&lt;li&gt;Be respectful&lt;/li&gt;
+&lt;li&gt;Do not self promote&lt;/li&gt;
+&lt;li&gt;Always be polite&lt;/li&gt;
+&lt;li&gt;Have fun!&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;p&gt;Alright guys I hope you enjoy this fascinating extension.&lt;/p&gt;
+
+&lt;h1&gt;
+  &lt;a href="#keep-moving-forward-%E3%83%84" class="anchor"&gt;
+  &lt;/a&gt;
+  Keep Moving Forward ツ
+&lt;/h1&gt;
+
+&lt;h2&gt;
+  &lt;a href="#enjoy-your-journey" class="anchor"&gt;
+  &lt;/a&gt;
+  Enjoy Your Journey 👊
+&lt;/h2&gt;
+
+&lt;h2&gt;
+  &lt;a href="#code-with" class="anchor"&gt;
+  &lt;/a&gt;
+  Code with 💛
+&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;🅑🅐🅝🅙🅘&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+      <category>vscode</category>
+      <category>programming</category>
+      <category>discuss</category>
+      <category>devops</category>
+    </item>
+    <item>
+      <title>Do you know Markdown!</title>
+      <author>Hardik Chopra</author>
+      <pubDate>Thu, 31 Dec 2020 09:44:28 +0000</pubDate>
+      <link>https://dev.to/hardikchopra242/do-you-know-markdown-2d2p</link>
+      <guid>https://dev.to/hardikchopra242/do-you-know-markdown-2d2p</guid>
+      <description>&lt;p&gt;If you write articles on DEV you might know markdown but if you don't know, let's learn it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; is a lightweight markup language that you can use to add formatting elements to plain text documents. Markdown is used widely in the community, being it either writing README for Github or writing dev articles, markdown is used everywhere.&lt;/p&gt;
+
+&lt;p&gt;I will be discussing some basics and resources related to markdown.&lt;/p&gt;
+
+&lt;h3&gt;
+  &lt;a href="#contents" class="anchor"&gt;
+  &lt;/a&gt;
+  Contents
+&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a href="#contents"&gt;Syntax&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#headings"&gt;Headings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#formatting-texts"&gt;Formatting Texts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#links"&gt;Links&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="#images"&gt;Images&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#code-snippet"&gt;Code Snippet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#lists"&gt;Lists&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#blockquotes"&gt;Blockquotes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#tables"&gt;Tables&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#horizontal-lines"&gt;Horizontal Lines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#emoticons"&gt;Emoticons&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="#practice-online"&gt;Practice online&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="#typora"&gt;Bonus!&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+&lt;h3&gt;
+  &lt;a href="#headings" class="anchor"&gt;
+  &lt;/a&gt;
+  &lt;strong&gt;Headings&lt;/strong&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;Just like we have &lt;code&gt;h1,h2....h6&lt;/code&gt; tags in HTML, we have these heading tags in markdown as well. We use this with the help of &lt;code&gt;#&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;INPUT:&lt;/strong&gt;&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;# This is Heading
+## This is Heading
+### This is Heading
+#### This is Heading
+##### This is Heading
+###### This is Heading  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;OUTPUT:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1&gt;
+  &lt;a href="#this-is-heading" class="anchor"&gt;
+  &lt;/a&gt;
+  This is Heading
+&lt;/h1&gt;
+
+&lt;h2&gt;
+  &lt;a href="#this-is-heading" class="anchor"&gt;
+  &lt;/a&gt;
+  This is Heading
+&lt;/h2&gt;
+
+&lt;h3&gt;
+  &lt;a href="#this-is-heading" class="anchor"&gt;
+  &lt;/a&gt;
+  This is Heading
+&lt;/h3&gt;
+
+&lt;h4&gt;
+  &lt;a href="#this-is-heading" class="anchor"&gt;
+  &lt;/a&gt;
+  This is Heading
+&lt;/h4&gt;
+
+&lt;h5&gt;
+  &lt;a href="#this-is-heading" class="anchor"&gt;
+  &lt;/a&gt;
+  This is Heading
+&lt;/h5&gt;
+
+&lt;h6&gt;
+  &lt;a href="#this-is-heading" class="anchor"&gt;
+  &lt;/a&gt;
+  This is Heading
+&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="#contents"&gt;Back to Contents&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+&lt;h3&gt;
+  &lt;a href="#formatting-texts" class="anchor"&gt;
+  &lt;/a&gt;
+  &lt;strong&gt;Formatting Texts&lt;/strong&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;You have different formatting options in markdown. You can use bold or italics but you have not the option of underlining text in pure markdown.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;To bold, enclose the text between 2 asterisks on both sides. &lt;code&gt;** **&lt;/code&gt;
+&lt;/li&gt;
+&lt;li&gt;To make the text emphasized, enclose text between 1 asterisk on both sides. &lt;code&gt;* *&lt;/code&gt;
+&lt;/li&gt;
+&lt;li&gt;To make bold and emphasized both, enclose text between 3 asterisks. &lt;code&gt;***  ***&lt;/code&gt;
+&lt;/li&gt;
+&lt;li&gt;For Strikethrough text, enclose it between &lt;code&gt;~~ ~~&lt;/code&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;INPUT:&lt;/strong&gt;&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;**Bold**
+*Emphasized*
+***Both***
+~~Strikethrough~~
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;OUTPUT:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bold&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Emphasized&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;&lt;em&gt;Both&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;del&gt;Strikethrough&lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;Note: Instead of asterisks(*), underscore(_) can also be used.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="#contents"&gt;Back to Contents&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h3&gt;
+  &lt;a href="#links" class="anchor"&gt;
+  &lt;/a&gt;
+  &lt;strong&gt;Links&lt;/strong&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;It is very easy to add links or hrefs in markdown. Write the text inside square brackets &lt;code&gt;[]&lt;/code&gt; and put the link in round brackets &lt;code&gt;()&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;INPUT:&lt;/strong&gt;&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;[My Dev Profile](https://dev.to/hardikchopra242)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;OUTPUT:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://dev.to/hardikchopra242"&gt;My Dev Profile&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="#contents"&gt;Back to Contents&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+&lt;h3&gt;
+  &lt;a href="#images" class="anchor"&gt;
+  &lt;/a&gt;
+  &lt;strong&gt;Images&lt;/strong&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;Adding images is very much similar to adding links. One difference is that we put an exclamation mark &lt;code&gt;!&lt;/code&gt; in front. In the square brackets, we write the Alt text and in the round brackets, we give the link to our image.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;INPUT:&lt;/strong&gt;&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;![Meme](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.YIPISOt_bX8dMMUBzE-hPAHaFj%26pid%3DApi&amp;amp;f=1)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;OUTPUT:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--bT7PZLY9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://external-content.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Ftse1.mm.bing.net%252Fth%253Fid%253DOIP.YIPISOt_bX8dMMUBzE-hPAHaFj%2526pid%253DApi%26f%3D1" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--bT7PZLY9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://external-content.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Ftse1.mm.bing.net%252Fth%253Fid%253DOIP.YIPISOt_bX8dMMUBzE-hPAHaFj%2526pid%253DApi%26f%3D1" alt="Meme"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="#contents"&gt;Back to Contents&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+&lt;h3&gt;
+  &lt;a href="#code-snippet" class="anchor"&gt;
+  &lt;/a&gt;
+  &lt;strong&gt;Code Snippet&lt;/strong&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;There are two options to add code snippets, one is inside a continuous line and the second is a whole code snippet block.&lt;br&gt;
+For inline we use a single back-tick and for a snippet block, we enclose the code in three back-tick pairs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;INPUT:&lt;/strong&gt;&lt;br&gt;
+&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--oP3tVSIQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ig4l4v8j74k3yefzf1qf.png" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oP3tVSIQ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ig4l4v8j74k3yefzf1qf.png" alt="Alt Text"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;OUTPUT:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is how inline &lt;code&gt;code looks like&lt;/code&gt;&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;Write your code
+Here and it
+will turn into a 
+code block
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;a href="#contents"&gt;Back to Contents&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+&lt;h3&gt;
+  &lt;a href="#lists" class="anchor"&gt;
+  &lt;/a&gt;
+  &lt;strong&gt;Lists&lt;/strong&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;You can add ordered or unordered lists in the markdown by just numbering them or putting asterisks &lt;code&gt;*&lt;/code&gt; ahead of every element&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;INPUT:&lt;/strong&gt;&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;Ordered List
+
+1. List Item   
+2. List Item
+  1. List 2       //For nested lists, use two-space indentation
+  2. List 2
+  3. List 2
+3. List Item
+
+
+Unordered List
+
+* List Item      //Inplace of * , - and + can also be used 
+* List Item    
+  * List 2
+  * List 2
+  * List 2
+* List Item
+
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;OUTPUT:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ordered List&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;List Item&lt;/li&gt;
+&lt;li&gt;List Item
+
+&lt;ol&gt;
+&lt;li&gt;List 2&lt;/li&gt;
+&lt;li&gt;List 2&lt;/li&gt;
+&lt;li&gt;List 2&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;List Item&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Unordered List&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;List Item&lt;/li&gt;
+&lt;li&gt;List Item
+
+&lt;ul&gt;
+&lt;li&gt;List 2&lt;/li&gt;
+&lt;li&gt;List 2&lt;/li&gt;
+&lt;li&gt;List 2&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;/li&gt;
+&lt;li&gt;List Item&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="#contents"&gt;Back to Contents&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+&lt;h3&gt;
+  &lt;a href="#blockquotes" class="anchor"&gt;
+  &lt;/a&gt;
+  &lt;strong&gt;Blockquotes&lt;/strong&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;Blockquotes can be added using &lt;code&gt;&amp;gt;&lt;/code&gt; at the start of a line. You can also use nested blockquotes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;INPUT:&lt;/strong&gt;&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;&amp;gt;This is a BlockQuote.
+&amp;gt;This is a BlockQuote.
+&amp;gt;&amp;gt;This is a ***nested*** BlockQuote.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;OUTPUT:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This is a BlockQuote.&lt;br&gt;
+This is a BlockQuote.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This is a &lt;strong&gt;&lt;em&gt;nested&lt;/em&gt;&lt;/strong&gt; BlockQuote.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="#contents"&gt;Back to Contents&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+&lt;h3&gt;
+  &lt;a href="#tables" class="anchor"&gt;
+  &lt;/a&gt;
+  &lt;strong&gt;Tables&lt;/strong&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;To make tables, every column should be separated using &lt;code&gt;|&lt;/code&gt; and &lt;code&gt;:--------:&lt;/code&gt; can be used to make the column headings bold. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;INPUT:&lt;/strong&gt;&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;| Column 1       | Column 2     | Column 3     |
+| :------------- | :----------: | :-----------: |
+|  Row 1 | To escape   | the pipes,    |
+| Row 2   | Use backslash| Like this  \| |
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;OUTPUT:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Column 1&lt;/th&gt;
+&lt;th&gt;Column 2&lt;/th&gt;
+&lt;th&gt;Column 3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Row 1&lt;/td&gt;
+&lt;td&gt;To escape&lt;/td&gt;
+&lt;td&gt;the pipes,&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Row 2&lt;/td&gt;
+&lt;td&gt;Use backslash&lt;/td&gt;
+&lt;td&gt;Like this  \&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="#contents"&gt;Back to Contents&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+&lt;h3&gt;
+  &lt;a href="#horizontal-lines" class="anchor"&gt;
+  &lt;/a&gt;
+  &lt;strong&gt;Horizontal Lines&lt;/strong&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;There are three different ways to make a horizontal line. These are:&lt;br&gt;
+Using three continuous &lt;code&gt;-&lt;/code&gt;, &lt;code&gt;*&lt;/code&gt;, and &lt;code&gt;_&lt;/code&gt;. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;INPUT:&lt;/strong&gt;&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;Paragraph 1
+
+---
+
+Paragraph 2
+
+___
+
+Paragraph 3
+
+***
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;OUTPUT:&lt;/strong&gt;&lt;br&gt;
+Paragraph 1&lt;/p&gt;
+
+
+
+&lt;p&gt;Paragraph 2&lt;/p&gt;
+
+
+
+&lt;p&gt;Paragraph 3&lt;/p&gt;
+
+
+
+&lt;p&gt;Don't forget to give a line space above and below the syntax.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="#contents"&gt;Back to Contents&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;h3&gt;
+  &lt;a href="#emoticons" class="anchor"&gt;
+  &lt;/a&gt;
+  &lt;strong&gt;Emoticons&lt;/strong&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;To use emoticons in your markdown place emoticon code inside two colons &lt;code&gt;: emoticon_code :&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;INPUT:&lt;/strong&gt;&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;:smile: :mask: :bug:
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;OUTPUT:&lt;/strong&gt;&lt;br&gt;
+😄 😷 🐛&lt;/p&gt;
+
+&lt;p&gt;For markdown emoji cheatsheet &lt;strong&gt;&lt;a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md"&gt;click here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="#contents"&gt;Back to Contents&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+&lt;h3&gt;
+  &lt;a href="#practice-online" class="anchor"&gt;
+  &lt;/a&gt;
+  &lt;strong&gt;Practice Online&lt;/strong&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;To practice markdown, you can refer to some of the following websites. Anytime if you feel like you should try something out, jump to one of these websites and write markdown!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://dillinger.io/"&gt;Dillinger&lt;/a&gt; 👑&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jbt.github.io/markdown-editor/"&gt;JBT Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="#contents"&gt;Back to Contents&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+&lt;h2&gt;
+  &lt;a href="#bonusfire" class="anchor"&gt;
+  &lt;/a&gt;
+  &lt;strong&gt;Bonus!!&lt;/strong&gt;🔥
+&lt;/h2&gt;
+
+&lt;h3&gt;
+  &lt;a href="#typora" class="anchor"&gt;
+  &lt;/a&gt;
+  Typora
+&lt;/h3&gt;
+
+&lt;p&gt;Typora is a markdown editor. One of my friends suggested me to use Typora for making notes and it's fantastic!&lt;br&gt;
+When we learn something we new we have to note that somewhere so that we can recall that later. Typora can be used for this purpose.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--aDf9Hd6V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/kvitu98pydmxqcg1qy5p.png" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--aDf9Hd6V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/kvitu98pydmxqcg1qy5p.png" alt="Alt Text"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ton of themes&lt;/li&gt;
+&lt;li&gt;Live preview of what you write in markdown&lt;/li&gt;
+&lt;li&gt;Many editing options &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://typora.io/"&gt;Download Typora&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="#contents"&gt;Back to Contents&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+&lt;p&gt;&lt;em&gt;If you got to learn something new and useful show some love by giving this post a&lt;/em&gt; ❤️&lt;/p&gt;
+
+&lt;p&gt;If you find it useful for you, &lt;strong&gt;save this post&lt;/strong&gt; and share it with your programming buddies 😃&lt;/p&gt;
+
+&lt;p&gt;Do you know any other markdown tricks? Do share it in the comment section!💬&lt;/p&gt;
+
+</description>
+      <category>webdev</category>
+      <category>tutorial</category>
+      <category>markdown</category>
+      <category>productivity</category>
+    </item>
+    <item>
+      <title>[Best of 2021]: An UI Visual Programming Tool you should look forward to</title>
+      <author>2(-)!</author>
+      <pubDate>Thu, 31 Dec 2020 09:24:52 +0000</pubDate>
+      <link>https://dev.to/imunprecedented/best-of-2021-an-ui-visual-programming-tool-you-should-look-forward-to-enj</link>
+      <guid>https://dev.to/imunprecedented/best-of-2021-an-ui-visual-programming-tool-you-should-look-forward-to-enj</guid>
+      <description>&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--jLKwudlN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/02ee6lzvw0ezx9ighe8g.jpg" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--jLKwudlN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/02ee6lzvw0ezx9ighe8g.jpg" alt="Alt Text"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ever wonder how can you skip those frustrating &amp;amp; time-consuming hand-coding processes, switching your tabs back and forth just to check if the Web Page looks OK? We understand your feeling, we been through it, but from now on, these problems finally have a solution. Because we created the revolutionary tool — pxCode, the best UI Visual Programming Tool in 2021.&lt;/p&gt;
+
+&lt;p&gt;pxCode, a Responsive Webpage Development Tool that doesn’t require hand-coding, you can just import a Sketch design file, and do all the detail adjustments in a single tab, you don’t have to shift your tabs back &amp;amp; forth, which saves you plenty of time!&lt;/p&gt;
+
+&lt;p&gt;And by ‘save you PLENTY of time’, we mean it, almost 10x faster than the old traditional way. But how do we achieve it?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--pSxc1PLz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/aifxds9lple4vt2pk1dy.jpg" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--pSxc1PLz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/aifxds9lple4vt2pk1dy.jpg" alt="Alt Text"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For the past few months, our team has been dedicating all our heart, just to come out with a new way that can help all the Front End Designers to save their precious work time. Fortunately, we did it!&lt;/p&gt;
+
+&lt;p&gt;We developed some new features that could not be found in other tools, and that’s what makes the Web building process in pxCode faster than others. We will dive deeper into it later on, here’s a TUTORIAL(&lt;a href="https://youtu.be/VCSpGUnoMW0"&gt;https://youtu.be/VCSpGUnoMW0&lt;/a&gt;) showing you how a Developer uses pxCode to achieve a 10 mins Responsive Webpage.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--kyNmpY8p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/iogsvmby7z6zeawjzir2.jpg" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--kyNmpY8p--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/iogsvmby7z6zeawjzir2.jpg" alt="Alt Text"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You must have questions, how the Fxxx can one build a Responsive Webpage without knowing any coding knowledge? But the truth is, you really don't need to do any hand-coding if you’re using pxCode!&lt;/p&gt;
+
+&lt;p&gt;We developed our own algorithm, so whenever you make any changes on your design file, pxCode instantly helps to generate the matching code, and we promise it is well-structured so that you can keep it for further purposes.&lt;/p&gt;
+
+&lt;p&gt;But why do we do this? Isn’t that we can learn more if we hand-coding by our own? Yes, we agree. But it just consumes too much time, now with pxCode, becoming productive is way more important as a Developer.&lt;/p&gt;
+
+&lt;p&gt;The best thing is that we don’t only generate one kind of code, from HTML, CSS, React, React-Native… and now we even support CSS Flex and Bootstrap, basically you can found anything you needed. And guess what, we are on our way to develop more features, let’s join us to witness the changes in the future!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--e7rBR0_7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/2h8y5etx2kuhsuw5r6bh.jpg" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--e7rBR0_7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/2h8y5etx2kuhsuw5r6bh.jpg" alt="Alt Text"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And that is why we have [ Elegant, 10x Faster, Clean Code ] as our slogan.&lt;/p&gt;
+
+&lt;p&gt;[Elegant], because we can build a Responsive Webpage from our Design File without any time pressure, and we can make it [10x Faster] than other Handoff Tools. And don’t have to worry about the code structure, because in pxCode, we generate it automatically for you in well-structured, which also represent [Clean Code]&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--HuXbCvth--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/22h84iimqpng1le4rqpw.jpg" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--HuXbCvth--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/22h84iimqpng1le4rqpw.jpg" alt="Alt Text"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The sky’s the limit, and that’s what the blue color in pxCode’s logo represent. pxCode breaks the limitation! It unlocked the limitation of Designers’ creativity, you can now have the complete control of our Design, doing whatever you like on it, and at the same time we help you to manage all the time-wasting and frustrating part!&lt;/p&gt;
+
+&lt;p&gt;As Stevie Wonder once sang:「Don’t you worry ‘bout a thing? Cause I’ll be standing on the side, When you check it out」You don’t have to worry, because pxCode is always on the side. ;)&lt;/p&gt;
+
+
+
+
+&lt;p&gt;Go check out pxCode by the link below&lt;br&gt;
+Website: &lt;a href="https://www.pxcode.io/"&gt;https://www.pxcode.io/&lt;/a&gt;&lt;br&gt;
+Facebook: &lt;a href="https://www.facebook.com/pxCode"&gt;https://www.facebook.com/pxCode&lt;/a&gt;&lt;br&gt;
+Youtube: &lt;a href="https://www.youtube.com/channel/UCi-NJnon0ROgyX2xdO9y-QA"&gt;https://www.youtube.com/channel/UCi-NJnon0ROgyX2xdO9y-QA&lt;/a&gt;]&lt;/p&gt;
+
+
+
+
+&lt;p&gt;Oh, you’re still here! Thanks for staying with us through this tough 2020, we look forward to continuing our relationship in the upcoming 2021. Here’s some memes that you might want to laugh at:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--fndtfbJJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/bkn412f3lgjflpp9olc4.jpg" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--fndtfbJJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/bkn412f3lgjflpp9olc4.jpg" alt="Alt Text"&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--N_fZqXSm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/gh67i2naua1vzsbkov1x.jpg" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--N_fZqXSm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/gh67i2naua1vzsbkov1x.jpg" alt="Alt Text"&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--6XZftbUL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/22hc0soso9rklqlgc9hn.jpg" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6XZftbUL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/22hc0soso9rklqlgc9hn.jpg" alt="Alt Text"&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+      <category>css</category>
+      <category>html</category>
+      <category>react</category>
+      <category>webdev</category>
+    </item>
+    <item>
+      <title>How I Effectively Overcame Impostor Syndrome As A Software Engineer</title>
+      <author>Nick Bull</author>
+      <pubDate>Thu, 31 Dec 2020 09:03:53 +0000</pubDate>
+      <link>https://dev.to/nickbulljs/how-i-effectively-overcame-impostor-syndrome-as-a-software-engineer-2pod</link>
+      <guid>https://dev.to/nickbulljs/how-i-effectively-overcame-impostor-syndrome-as-a-software-engineer-2pod</guid>
+      <description>&lt;p&gt;Feel like you a fraud?&lt;/p&gt;
+
+&lt;p&gt;Not good enough?&lt;/p&gt;
+
+&lt;p&gt;Not deserved your job position or salary?&lt;/p&gt;
+
+&lt;p&gt;Worry that other people will find these out?&lt;/p&gt;
+
+&lt;p&gt;This is called an imposter syndrome.&lt;/p&gt;
+
+&lt;p&gt;And you are not alone.&lt;/p&gt;
+
+&lt;p&gt;Even successful people like &lt;a href="http://journal.neilgaiman.com/2017/05/the-neil-story-with-additional-footnote.html"&gt;Neil Armstrong&lt;/a&gt; and &lt;a href="https://www.bbc.com/news/uk-46434147"&gt;Michelle Obama&lt;/a&gt; feel like imposters.&lt;/p&gt;
+
+&lt;p&gt;I felt it too and tried to get rid of it.&lt;/p&gt;
+
+&lt;p&gt;I've read tons of articles on how to overcome impostor syndrome, and honestly, some of the advice helped me, but 95%+ didn’t. So I just accepted the fact that I couldn't get over it completely and went on with my life.&lt;/p&gt;
+
+&lt;p&gt;What happened next was the answer on how to overcome it, came from a place where I didn't expect to find it. From studying human behavior and neuroscience.&lt;/p&gt;
+
+&lt;p&gt;The answer I found helped me overcome impostor syndrome in a few weeks and I finally understand the roots of it.&lt;/p&gt;
+
+&lt;h2&gt;
+  &lt;a href="#6-years-ago" class="anchor"&gt;
+  &lt;/a&gt;
+  6 Years Ago
+&lt;/h2&gt;
+
+&lt;p&gt;I started my career as a programmer 6 years ago. After 2 years working as a Software Engineer I was invited for an interview for the position “Frontend Team Lead.”&lt;/p&gt;
+
+&lt;p&gt;And you know, when you read Twitter of random “real developer from the internet” who are saying that you can’t lead the team if you don’t have 5+ years of experience, you start to feel like a fraud and that you wouldn't be able to handle it.&lt;/p&gt;
+
+&lt;p&gt;But in truth, when I accepted the offer (&lt;em&gt;and yes, felt like a fraud&lt;/em&gt;) it was...not that hard.&lt;/p&gt;
+
+&lt;p&gt;For sure, I wasn't a great team leader unlike developers who started leading the team after 5+ years of experience, but it didn’t prevent me from doing my job well.&lt;/p&gt;
+
+&lt;p&gt;But even the fact that everyone was satisfied with my job, I still suffer from imposter syndrome, because of public opinion. It has formed in my mind a kind of “standard” when you can be a leader.&lt;/p&gt;
+
+&lt;p&gt;Now, 4 years later, hundreds of books, papers, and talks with different people, I understand the real reason why people suffering from imposter syndrome.&lt;/p&gt;
+
+&lt;p&gt;I found the answer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The real reason we suffer from impostor syndrome is that we are afraid of being kicked out of the group.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Nick, what group are you talking about?”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;To answer this question, let's first go back thousands of years.&lt;/p&gt;
+
+&lt;h2&gt;
+  &lt;a href="#thousands-of-years-ago" class="anchor"&gt;
+  &lt;/a&gt;
+  Thousands of Years Ago
+&lt;/h2&gt;
+
+&lt;p&gt;The time when we lived in small groups, in caves, was a hard time to survive. People could only be sure of the future if they killed a large animal that could feed the whole tribe. It was only possible if they hunted in groups. Because you cannot kill a mammoth alone. And if you for some reason was kicked out from the group, you probably would die. By hunger or by some predatory animal.&lt;/p&gt;
+
+&lt;p&gt;A survival program was formed:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I have more chances to survive in a group → I can’t be kicked out from the group to survive&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;
+  &lt;a href="#now" class="anchor"&gt;
+  &lt;/a&gt;
+  Now
+&lt;/h2&gt;
+
+&lt;p&gt;During this time, this program has settled in our heads. Even now, when we don’t need a group to survive &lt;em&gt;(hey freelancers)&lt;/em&gt; we are still guided by this survival program.&lt;/p&gt;
+
+&lt;p&gt;Ancient tribes became our coworkers, family, friends, and any other group we belong to. And that feeling of being kicked out of one causes a sense of fear in our bodies.&lt;/p&gt;
+
+&lt;p&gt;Here is an example of how this basic survival program connected to imposter syndrome:&lt;/p&gt;
+
+&lt;p&gt;For example, when** you think** that all your colleagues know technology X and you know nothing about it, you feel the fear of being caught that you don't know it. &lt;strong&gt;You think&lt;/strong&gt; that when you get caught, you will be labeled as an impostor. And an impostor cannot be part of the group, so they will kick you out of it (you will be fired or won't get a bonus at the end of the month, for example)&lt;/p&gt;
+
+&lt;p&gt;This is how a basic survival program creates fear in your body. And imposter syndrome revolves around this program.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Okay, so how to overcome it?”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;You may have noticed that I highlighted the words "&lt;strong&gt;you think&lt;/strong&gt;" above. This means that only you think that not knowing something is the same as being an impostor and being kicked out of the group.&lt;/p&gt;
+
+&lt;p&gt;The impostor syndrome exists only in your head.&lt;/p&gt;
+
+&lt;p&gt;And it’s the key to get rid of it.&lt;/p&gt;
+
+&lt;h2&gt;
+  &lt;a href="#how-to-get-over-imposter-syndrome" class="anchor"&gt;
+  &lt;/a&gt;
+  How to Get Over Imposter Syndrome
+&lt;/h2&gt;
+
+&lt;p&gt;You should reprogram yourself.&lt;/p&gt;
+
+&lt;p&gt;I don’t know how much you on this Earth, but you probably noticed that our life is not linear.&lt;/p&gt;
+
+&lt;p&gt;You could have bought 1,000 bitcoins in 2013 just for the fun, after reading about them on Reddit, and drink pina coladas on a beach in Mexico now, and not work the rest of your life.&lt;/p&gt;
+
+&lt;p&gt;You can join a startup as one of the first developers, negotiate to get shares as part of your salary, and 5 years later, when the startup comes to IPO, you're a multimillionaire.&lt;/p&gt;
+
+&lt;p&gt;You can work on a side project in the evenings, release it to the public, it can gain traction because some public feature is published about it on Twitter, and the next day you get an email from Facebook that they want to acquire you.&lt;/p&gt;
+
+&lt;p&gt;Examples are endless.&lt;/p&gt;
+
+&lt;p&gt;That is why life is not linear and not working like:&lt;/p&gt;
+
+&lt;p&gt;You work X time you get X in return. I work 2X time I get 2X in return.&lt;/p&gt;
+
+&lt;p&gt;You can get 1000X in return for working X time and I can get 0.5X in return for working 2X time.&lt;/p&gt;
+
+&lt;p&gt;You can hate it, but that is how it works.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life is not linear.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The same principle of non-linearity applies to software engineering jobs.&lt;/p&gt;
+
+&lt;p&gt;You can become a Junior, Middle, Senior, Lead, Architect, Principal, CTO, name any position here, at any age and with any amount of skills. How effective it will be to become a CTO in 18 years is another question, but you absolutely can.&lt;/p&gt;
+
+&lt;p&gt;Other people may be angry about it and will hate you, just because they got the same position with 3X skills and 5X experience of what you have.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;But if you handle it right, if you look at this situation from the perspective that life is not linear, that fear is created by your basic survival program, then the imposter syndrome disappears.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Remember, the basic survival program will constantly create fear and get in the way, but everything is in your head and you can control it.&lt;/p&gt;
+
+&lt;h2&gt;
+  &lt;a href="#in-the-end" class="anchor"&gt;
+  &lt;/a&gt;
+  In the end...
+&lt;/h2&gt;
+
+&lt;p&gt;If you like this article, share it with your friends and &lt;a href="https://twitter.com/nickbulljs"&gt;follow me on Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Have a great one!&lt;/p&gt;
+
+&lt;p&gt;– Nick Bull&lt;/p&gt;
+
+&lt;p&gt;And also &lt;em&gt;before I forget,&lt;/em&gt; every week I send out a "3–2–1" newsletter with 3 tech news, 2 articles, and 1 piece of advice for you.&lt;/p&gt;
+
+&lt;p&gt;🔥 &lt;a href="https://nickbulljs.com/"&gt;Get the latest Frontend news here.&lt;/a&gt; 🔥&lt;/p&gt;
+
+</description>
+      <category>programming</category>
+      <category>productivity</category>
+      <category>javascript</category>
+      <category>python</category>
+    </item>
+    <item>
+      <title>25 Years of Software Developer Lessons Learned</title>
+      <author>Dean Radcliffe</author>
+      <pubDate>Thu, 31 Dec 2020 07:37:48 +0000</pubDate>
+      <link>https://dev.to/deanius/25-years-of-software-developer-lessons-learned-2m0d</link>
+      <guid>https://dev.to/deanius/25-years-of-software-developer-lessons-learned-2m0d</guid>
+      <description>&lt;p&gt;In January 1996 I set foot in my first web development job - an internship with Cybermundi.es during my Study Abroad semester in Madrid through Boston University. In January 2021, with a few interruptions of "funemployment", I'll have spent 25 years within the web development field. Between developing, teaching, consulting, and sabbatical, I am grateful for what it's taught me, and I have great hopes for the next 20 years.&lt;br&gt;
+The real story about these past 25 years is that - most of the things I thought would be true about my career at this point - aren't in fact true! This post is about those realizations.&lt;/p&gt;
+
+&lt;p&gt;I can't say I've 'found my place' in the field any more now than in my first 5 years. I can't say I've eliminated Imposter Syndrome, or reached a place where I'm secure that I can't be fired, let go, or not hired. I'm not close to an early retirement. I am more humble about my ability to keep up with the pace of technological change.&lt;/p&gt;
+
+&lt;p&gt;And here are the biggest misconceptions I've been disabused of along the way:&lt;/p&gt;
+
+&lt;p&gt;At year 3 I thought physical discomfort from having a desk job was inevitable. It turns out it can be systematically eliminated with exercise and ergonomics— in fact it must be if you are to have any longevity in this field.&lt;/p&gt;
+
+&lt;p&gt;At year 4 I thought I'd rotate my career wildly every 4 years. It turns out starting at the bottom in a new field, once you have some capital/skills in one field, is not very easy. Pay cuts are no fun.&lt;/p&gt;
+
+&lt;p&gt;At year 6 I thought I'd pulled an hourly rate I'd never see the equal of. While there are ups and downs, and that was relatively high, there's no ceiling, especially when focusing on in-demand skills. There's always something you could learn to make more if you want.&lt;/p&gt;
+
+&lt;p&gt;At year 7, then again at year 22, I thought I'd become a developer-trainer - primarily a teacher not a maker. It turns out while immensely rewarding, teaching has demands I've not yet been able to conquer sufficiently. I now seek the learning/teaching element within the relationships and many benefits I have as a developer.&lt;/p&gt;
+
+&lt;p&gt;At year 10, I thought Object Oriented Programming was the pinnacle in terms of architecture. I now feel that LISP and Functional Programming is more fundamental, and ultimately more expressive.&lt;/p&gt;
+
+&lt;p&gt;At year 13 I thought Ruby was the way I'd want to code forever. It turns out having code running in a browser, widely available, is more important than having a precise syntax/runtime DX, and I'm all in on JS now.&lt;/p&gt;
+
+&lt;p&gt;At year 17 I thought I'd taken my last development job and might become a yoga instructor. See that point about starting at the bottom in a new field, with less pay.&lt;/p&gt;
+
+&lt;p&gt;At year 19 I thought I'd be in business for myself forever. It turns out the complicated tax situation, and changing teams often grew old and I began to seek stability by year 22.&lt;/p&gt;
+
+&lt;p&gt;At year 21 I thought mental health took care of itself. It turns out it needs care and feeding like all worthwhile endeavors.&lt;/p&gt;
+
+&lt;p&gt;At year 23 I thought I'd joined my last full-time development job. A layoff from that job led me to begin the one I have now, which I have no intentions of leaving.&lt;/p&gt;
+
+&lt;p&gt;And I'm sure more misconceptions will continue to get stripped away as the years pile on, which I look forward to!&lt;/p&gt;
+
+
+
+
+&lt;p&gt;As I step into year 25 as a coder (0-based index), my coding approaches are generally the same—just a bit faster, a bit more knowledgeable, and a lot more humble about what I don't know. &lt;/p&gt;
+
+&lt;p&gt;The most surprising thing about where I'm at is how my career has fueled growth in non-career areas. I am entirely transformed in ways my 20 year old self would be delighted to see. I've always found the demands of this career have left time, money, and curiosity for skill development outside of work. I play several instruments now, including one of my own design, well enough to play with others or for audiences. I ride 100 km bike rides. I play with my kids for hours, and teach them as much as I can. I ski with my wife down Colorado black-diamond slopes above 15,000 feet. Life has been good to me. 🙏&lt;/p&gt;
+
+&lt;p&gt;My next 20 years will be themed around bringing those outside-of-career investments back toward my career. I am taking the discipline and goal-setting from my athletic endeavors, the precision and pattern from my musical hobbies, and the social and development from my life as dad and husband, and bring them all to bear on making my career an even better place to be for me and those around me.&lt;/p&gt;
+
+&lt;p&gt;I will work on adapting in ever more dynamic ways, to the externalities that change this field constantly. I will take inspiration from colleagues, people who think differently than me, and who challenge me. I will seek the experiences that offer me the feedback I need to continue to be who I want to be.&lt;/p&gt;
+
+&lt;p&gt;That's what 25 years of being a professional software developer has taught me, and why I'm more excitedly going into the next 20 than ever. Happy 2021 y'all - what are your intentions for your development careers, let me know!&lt;/p&gt;
+
+</description>
+      <category>career</category>
+      <category>imposter</category>
+      <category>javascript</category>
+      <category>reflection</category>
+    </item>
+    <item>
+      <title>VS Code - Vertical Rulers for Prettier Code?</title>
+      <author>Brad Beggs</author>
+      <pubDate>Thu, 31 Dec 2020 07:37:27 +0000</pubDate>
+      <link>https://dev.to/brad_beggs/vs-code-vertical-rulers-for-prettier-code-3gp3</link>
+      <guid>https://dev.to/brad_beggs/vs-code-vertical-rulers-for-prettier-code-3gp3</guid>
+      <description>&lt;h2&gt;
+  &lt;a href="#what-is-a-vertical-ruler-in-vs-code" class="anchor"&gt;
+  &lt;/a&gt;
+  What is a Vertical Ruler in VS Code?
+&lt;/h2&gt;
+
+&lt;p&gt;In VS Code, the vertical ruler is a static, customizable design element to give your code an unenforced right-side boundary, meaning it won’t word-wrap your code &lt;/p&gt;
+
+&lt;p&gt;This vertical ruler isn’t for measurements, unlike in Word, Illustrator, or other design/editing packages. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--tU-rzwkn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/amas6zvy56v8gqsd9ujo.png" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--tU-rzwkn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/amas6zvy56v8gqsd9ujo.png" alt="Orange, gray, purple rulers"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Orange, gray, and purple rulers. Note lines 21, 22 are not impacted by the rulers.&lt;/p&gt;
+
+&lt;p&gt;Text is not impacted by rulers, as the example above shows.&lt;/p&gt;
+
+&lt;h2&gt;
+  &lt;a href="#why" class="anchor"&gt;
+  &lt;/a&gt;
+  Why?
+&lt;/h2&gt;
+
+&lt;p&gt;A vertical ruler provides an easy means to make your code readable by not being too wide.   &lt;/p&gt;
+
+&lt;p&gt;Some languages (like Python or Drupal) have style guides for max characters per line. (79 characters for Python). &lt;/p&gt;
+
+&lt;p&gt;While others, like Javascript, have a &lt;a href="https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/JavaScript"&gt;very loose set of guidelines&lt;/a&gt; but nothing suggesting a max character count per line.&lt;/p&gt;
+
+&lt;h2&gt;
+  &lt;a href="#how" class="anchor"&gt;
+  &lt;/a&gt;
+  How
+&lt;/h2&gt;
+
+&lt;p&gt;Color and multiple vertical rulers are available in VS Code as of the &lt;a href="https://github.com/microsoft/vscode/issues/54312"&gt;February 2020 edition&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h3&gt;
+  &lt;a href="#step-1-open-raw-settingsjson-endraw-" class="anchor"&gt;
+  &lt;/a&gt;
+  Step 1 - Open &lt;code&gt;settings.json&lt;/code&gt;
+&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mac: Press &lt;code&gt;Shift&lt;/code&gt; &lt;code&gt;Command&lt;/code&gt;  &lt;code&gt;P&lt;/code&gt; &lt;/li&gt;
+&lt;li&gt;non-macOS: press &lt;code&gt;Ctrl P&lt;/code&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This opens the file search.&lt;/p&gt;
+
+&lt;p&gt;Type in &lt;code&gt;settings.json&lt;/code&gt; and select the file to edit it.&lt;/p&gt;
+
+&lt;h3&gt;
+  &lt;a href="#step-2-add-the-following-to-the-last-line-inside-the-json-object" class="anchor"&gt;
+  &lt;/a&gt;
+  Step 2 - Add the following to the last line inside the json object:
+&lt;/h3&gt;
+
+
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight json"&gt;&lt;code&gt;&lt;span class="nl"&gt;"editor.rulers"&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="w"&gt;
+   &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;
+     &lt;/span&gt;&lt;span class="nl"&gt;"column"&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;80&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="err"&gt;//&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;spacing&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;of&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="err"&gt;st&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;column&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;from&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;left&lt;/span&gt;&lt;span class="w"&gt;
+     &lt;/span&gt;&lt;span class="nl"&gt;"color"&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;"#ff9900"&lt;/span&gt;&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="err"&gt;//&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;orange&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;Go&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;Vols!&lt;/span&gt;&lt;span class="w"&gt;
+   &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;
+     &lt;/span&gt;&lt;span class="mi"&gt;100&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="err"&gt;//&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="err"&gt;nd&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;ruler&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;with&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;no&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;color&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;option&lt;/span&gt;&lt;span class="w"&gt;
+   &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;
+    &lt;/span&gt;&lt;span class="nl"&gt;"column"&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;120&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;      &lt;/span&gt;&lt;span class="err"&gt;//&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;third&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;ruler&lt;/span&gt;&lt;span class="w"&gt;
+    &lt;/span&gt;&lt;span class="nl"&gt;"color"&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;"#9f0af5"&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="err"&gt;//&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;purple&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;go&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;Pirates!&lt;/span&gt;&lt;span class="w"&gt; 
+   &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;&lt;span class="err"&gt;,&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;The above implementation is language-agnostic and becomes the default "always-on" ruler(s). It is possible to have both the default and language-specific at the same time. &lt;/p&gt;
+
+&lt;p&gt;For a specific language, change the language name in the ‘[  ]’ brackets to your preferred language:&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight json"&gt;&lt;code&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;"[ruby]"&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;
+        &lt;/span&gt;&lt;span class="nl"&gt;"editor.rulers"&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="w"&gt;
+            &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;
+                &lt;/span&gt;&lt;span class="nl"&gt;"column"&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;100&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;
+                &lt;/span&gt;&lt;span class="nl"&gt;"color"&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;"#00ff22"&lt;/span&gt;&lt;span class="w"&gt;
+            &lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;
+        &lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;&lt;span class="w"&gt;
+    &lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;Add one for each language.&lt;/p&gt;
+
+&lt;h3&gt;
+  &lt;a href="#step-3-enjoy-readable-code" class="anchor"&gt;
+  &lt;/a&gt;
+  Step 3 - Enjoy readable code
+&lt;/h3&gt;
+
+&lt;p&gt;Make sure to save your changes and enjoy. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://res.cloudinary.com/practicaldev/image/fetch/s--uRHjdMzs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/z220nvsrbhu64vydbfzu.png" class="article-body-image-wrapper"&gt;&lt;img src="https://res.cloudinary.com/practicaldev/image/fetch/s--uRHjdMzs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/z220nvsrbhu64vydbfzu.png" alt="Pretty Code. Not too wide. Just right."&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pretty Code. Not too wide. Just right.&lt;/p&gt;
+
+&lt;h2&gt;
+  &lt;a href="#feedback" class="anchor"&gt;
+  &lt;/a&gt;
+  Feedback?
+&lt;/h2&gt;
+
+&lt;p&gt;Have thoughts or advice on the above implementation or other useful VS Code settings?&lt;/p&gt;
+
+&lt;p&gt;If so, drop a note. I'd love to hear and see your examples, explanations, and other details to clarify how/why/when.&lt;/p&gt;
+
+&lt;h2&gt;
+  &lt;a href="#resources" class="anchor"&gt;
+  &lt;/a&gt;
+  Resources
+&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/microsoft/vscode/issues/54312"&gt;February 2020 VS Code Feature&lt;/a&gt;. &lt;br&gt;
+&lt;a href="https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/JavaScript"&gt;MDN Javascript Guidelines&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://www.python.org/dev/peps/pep-0008/"&gt;Python Style Guide - PEP8&lt;/a&gt; &lt;/p&gt;
+
+</description>
+      <category>vscode</category>
+      <category>python</category>
+      <category>javascript</category>
+    </item>
+    <item>
+      <title>Get your web developer portfolio reviewed for FREE</title>
+      <author>RealToughCandy.io</author>
+      <pubDate>Thu, 31 Dec 2020 06:37:18 +0000</pubDate>
+      <link>https://dev.to/realtoughcandy/get-your-web-developer-portfolio-reviewed-for-free-2p13</link>
+      <guid>https://dev.to/realtoughcandy/get-your-web-developer-portfolio-reviewed-for-free-2p13</guid>
+      <description>&lt;h2&gt;
+  &lt;a href="#do-you-have-a-developer-portfolio-that-could-use-a-second-set-of-eyes" class="anchor"&gt;
+  &lt;/a&gt;
+  Do you have a developer portfolio that could use a second set of eyes?
+&lt;/h2&gt;
+
+&lt;p&gt;In a few weeks I'll be doing my second annual portfolio review livestream on my YouTube channel. &lt;/p&gt;
+
+&lt;p&gt;Last year's session was a smash success and I'm excited to review even more portfolios this year! &lt;/p&gt;
+
+&lt;p&gt;Here is our livestream from last year: &lt;a href="https://youtu.be/IqSwjamlivQ"&gt;https://youtu.be/IqSwjamlivQ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Some things I assess during the review:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;First impressions&lt;/li&gt;
+&lt;li&gt;Messaging&lt;/li&gt;
+&lt;li&gt;UX/UI&lt;/li&gt;
+&lt;li&gt;Projects: strengths &amp;amp; improvement areas&lt;/li&gt;
+&lt;li&gt;Contact forms&lt;/li&gt;
+&lt;li&gt;Browser compatibility&lt;/li&gt;
+&lt;li&gt;More&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It takes a lot of bravery to put your work in front of the world, but in return you will get a ton of practical, actionable advice from a working software developer who's helped developers just like you land a dev job. &lt;/p&gt;
+
+&lt;h3&gt;
+  &lt;a href="#sound-interesting-leave-a-link-to-your-portfolio-in-the-comments-below" class="anchor"&gt;
+  &lt;/a&gt;
+  Sound interesting? Leave a link to your portfolio in the comments below.
+&lt;/h3&gt;
+
+&lt;p&gt;Alternately, you can send it via email (realtoughcandy at gmail dot com).&lt;/p&gt;
+
+&lt;p&gt;The deadline for submission is Thursday, January 7th at 11 pm CST.&lt;/p&gt;
+
+&lt;p&gt;The exact time of the livestream will be announced soon, both on Dev.to and on my community tab on YouTube. Be sure to subscribe to my YouTube channel for the updates. &lt;/p&gt;
+
+&lt;p&gt;Looking forward to it! &lt;/p&gt;
+
+</description>
+      <category>webdev</category>
+      <category>portfolio</category>
+      <category>career</category>
+      <category>beginners</category>
+    </item>
+    <item>
+      <title>What is the Double bang (!!) operator in JavaScript?
+</title>
+      <author>Sanchithasr</author>
+      <pubDate>Thu, 31 Dec 2020 05:15:32 +0000</pubDate>
+      <link>https://dev.to/sanchithasr/what-is-the-double-bang-operator-in-javascript-4i3h</link>
+      <guid>https://dev.to/sanchithasr/what-is-the-double-bang-operator-in-javascript-4i3h</guid>
+      <description>&lt;p&gt;Every value has &lt;em&gt;truth&lt;/em&gt; or &lt;em&gt;false&lt;/em&gt; values in JavaScript. For example, a &lt;code&gt;null&lt;/code&gt; value has an associated &lt;em&gt;boolean&lt;/em&gt; value of &lt;em&gt;false&lt;/em&gt;. Similarly &lt;code&gt;34&lt;/code&gt; has an associated value of &lt;em&gt;true&lt;/em&gt;. We can use this to cast a variable to &lt;em&gt;true&lt;/em&gt; or &lt;em&gt;false&lt;/em&gt; using the double bang operator.&lt;/p&gt;
+
+&lt;p&gt;Let’s dive deep into what it is and how it works.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;!&lt;/code&gt; in JavaScript, also called “bang”, is the logical “not” operator. If you place this operator in front of a &lt;em&gt;boolean&lt;/em&gt; value, it will reverse the value, returning the opposite.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight javascript"&gt;&lt;code&gt;&lt;span class="o"&gt;!&lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt; &lt;span class="c1"&gt;// returns false&lt;/span&gt;
+&lt;span class="o"&gt;!&lt;/span&gt;&lt;span class="kc"&gt;false&lt;/span&gt; &lt;span class="c1"&gt;// returns true&lt;/span&gt;
+
+&lt;span class="nx"&gt;isTrue&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="kc"&gt;true&lt;/span&gt; &lt;span class="c1"&gt;// variable which is boolean&lt;/span&gt;
+&lt;span class="o"&gt;!&lt;/span&gt;&lt;span class="nx"&gt;isTrue&lt;/span&gt; &lt;span class="c1"&gt;// returns false&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;If the single bang returns the opposite &lt;em&gt;boolean&lt;/em&gt; value, imagine what double-bang would return?&lt;/p&gt;
+
+&lt;p&gt;The associated &lt;em&gt;boolean&lt;/em&gt; value. In other words, &lt;em&gt;true&lt;/em&gt; or &lt;em&gt;false&lt;/em&gt; according to whether it is &lt;strong&gt;truthy&lt;/strong&gt; or &lt;strong&gt;falsy&lt;/strong&gt; values.&lt;/p&gt;
+
+&lt;p&gt;Values that are associated with &lt;em&gt;boolean&lt;/em&gt; &lt;em&gt;true&lt;/em&gt; are said to be &lt;strong&gt;truthy&lt;/strong&gt;. Values that are associated with &lt;em&gt;boolean&lt;/em&gt; &lt;em&gt;false&lt;/em&gt; values are said to be &lt;strong&gt;falsy&lt;/strong&gt;.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight javascript"&gt;&lt;code&gt;&lt;span class="o"&gt;!!&lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt; &lt;span class="c1"&gt;// returns true&lt;/span&gt;
+&lt;span class="o"&gt;!!&lt;/span&gt;&lt;span class="kc"&gt;false&lt;/span&gt; &lt;span class="c1"&gt;// returns false&lt;/span&gt;
+
+&lt;span class="nx"&gt;isTrue&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="kc"&gt;true&lt;/span&gt; &lt;span class="c1"&gt;// variable which is boolean&lt;/span&gt;
+&lt;span class="o"&gt;!!&lt;/span&gt;&lt;span class="nx"&gt;isTrue&lt;/span&gt; &lt;span class="c1"&gt;// returns true&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;We can take advantage of this using double-bang on non-boolean values as well which is pretty cool.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight javascript"&gt;&lt;code&gt;&lt;span class="nx"&gt;isNumber&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;34&lt;/span&gt; &lt;span class="c1"&gt;// variable which is not boolean&lt;/span&gt;
+&lt;span class="o"&gt;!!&lt;/span&gt;&lt;span class="nx"&gt;isNumber&lt;/span&gt; &lt;span class="c1"&gt;// returns true&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;h3&gt;
+  &lt;a href="#truthy-values" class="anchor"&gt;
+  &lt;/a&gt;
+  Truthy values:
+&lt;/h3&gt;
+
+&lt;p&gt;In JavaScript, a &lt;strong&gt;truthy&lt;/strong&gt; value is a value that is considered &lt;em&gt;true&lt;/em&gt; when encountered in a &lt;em&gt;Boolean&lt;/em&gt; context.&lt;/p&gt;
+
+&lt;p&gt;The following values are few examples that are considered by JavaScript to be &lt;strong&gt;truthys&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Object: &lt;code&gt;{}&lt;/code&gt;
+&lt;/li&gt;
+&lt;li&gt;Array: &lt;code&gt;[]&lt;/code&gt;
+&lt;/li&gt;
+&lt;li&gt;Not empty string: &lt;code&gt;"anything"&lt;/code&gt;
+&lt;/li&gt;
+&lt;li&gt;Number other than zero: &lt;code&gt;3.14&lt;/code&gt;
+&lt;/li&gt;
+&lt;li&gt;Date: &lt;code&gt;new Date();&lt;/code&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the below example, variable &lt;code&gt;something&lt;/code&gt; has the non-empty string value which has &lt;strong&gt;truthy&lt;/strong&gt; value in JavaScript so the console will print the first message.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight javascript"&gt;&lt;code&gt;&lt;span class="kd"&gt;var&lt;/span&gt; &lt;span class="nx"&gt;something&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="err"&gt;‘&lt;/span&gt;&lt;span class="nx"&gt;string&lt;/span&gt;&lt;span class="err"&gt;’&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+ &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="o"&gt;!!&lt;/span&gt;&lt;span class="nx"&gt;something&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+   &lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;log&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;'&lt;/span&gt;&lt;span class="s1"&gt;This is truthy&lt;/span&gt;&lt;span class="dl"&gt;'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+ &lt;span class="p"&gt;}&lt;/span&gt; &lt;span class="k"&gt;else&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+   &lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;log&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;'&lt;/span&gt;&lt;span class="s1"&gt;This is falsey&lt;/span&gt;&lt;span class="dl"&gt;'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; 
+ &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;You can find more about it in the link &lt;a href="https://developer.mozilla.org/en-US/docs/Glossary/Truthy?source=post_page-----db5d8bb4acd6----------------------"&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;
+  &lt;a href="#falsy-values" class="anchor"&gt;
+  &lt;/a&gt;
+  Falsy values:
+&lt;/h3&gt;
+
+&lt;p&gt;A &lt;strong&gt;falsy&lt;/strong&gt; value is a value that is considered &lt;em&gt;false&lt;/em&gt; when encountered in a &lt;em&gt;Boolean&lt;/em&gt; context.&lt;/p&gt;
+
+&lt;p&gt;The following values are few of the examples that are considered by JavaScript to be &lt;strong&gt;falsey&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Empty string: &lt;code&gt;""&lt;/code&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;0&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;null&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;undefined&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;code&gt;NaN&lt;/code&gt; and the list of &lt;em&gt;falsy&lt;/em&gt; values below.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the below example, variable &lt;code&gt;nothing&lt;/code&gt; has the &lt;code&gt;0&lt;/code&gt; which has &lt;strong&gt;falsy&lt;/strong&gt; value in JavaScript so the console will print the second message.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight javascript"&gt;&lt;code&gt;&lt;span class="kd"&gt;var&lt;/span&gt; &lt;span class="nx"&gt;nothing&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+ &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="o"&gt;!!&lt;/span&gt;&lt;span class="nx"&gt;nothing&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+   &lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;log&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;'&lt;/span&gt;&lt;span class="s1"&gt;This is truthy&lt;/span&gt;&lt;span class="dl"&gt;'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+ &lt;span class="p"&gt;}&lt;/span&gt; &lt;span class="k"&gt;else&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+   &lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;log&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;'&lt;/span&gt;&lt;span class="s1"&gt;This is falsey&lt;/span&gt;&lt;span class="dl"&gt;'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; 
+ &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;You can find more about &lt;strong&gt;falsy&lt;/strong&gt; values in the link &lt;a href="https://developer.mozilla.org/en-US/docs/Glossary/Falsy?source=post_page-----db5d8bb4acd6----------------------"&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Let us see how we can use it for type casting.&lt;br&gt;
+&lt;/p&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight javascript"&gt;&lt;code&gt;&lt;span class="kd"&gt;function&lt;/span&gt; &lt;span class="nx"&gt;BankAccount&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;cash&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+&lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;cash&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nx"&gt;cash&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;hasMoney&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="o"&gt;!!&lt;/span&gt;&lt;span class="nx"&gt;cash&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="kd"&gt;var&lt;/span&gt; &lt;span class="nx"&gt;myAccount&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;new&lt;/span&gt; &lt;span class="nx"&gt;BankAccount&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;80&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;log&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;myAccount&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;cash&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt; &lt;span class="c1"&gt;// expected result: 80&lt;/span&gt;
+&lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;log&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;myAccount&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;hasMoney&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt; &lt;span class="c1"&gt;// expected result: true&lt;/span&gt;
+
+&lt;span class="kd"&gt;var&lt;/span&gt; &lt;span class="nx"&gt;emptyAccount&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;new&lt;/span&gt; &lt;span class="nx"&gt;BankAccount&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;log&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;emptyAccount&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;cash&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt; &lt;span class="c1"&gt;// expected result: 0&lt;/span&gt;
+&lt;span class="nx"&gt;console&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;log&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;emptyAccount&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;hasMoney&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt; &lt;span class="c1"&gt;// expected result: false&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;And that sums it up!&lt;br&gt;
+Thank You!&lt;/p&gt;
+
+</description>
+      <category>javascript</category>
+      <category>webdev</category>
+      <category>beginners</category>
+    </item>
+    <item>
+      <title>Toggle Between Dark/Light Modes with HTML5 web storage API </title>
+      <author>Mateus V. Farias</author>
+      <pubDate>Thu, 31 Dec 2020 04:23:12 +0000</pubDate>
+      <link>https://dev.to/fariasmateuss/toggle-between-dark-light-modes-with-html5-web-storage-api-14d8</link>
+      <guid>https://dev.to/fariasmateuss/toggle-between-dark-light-modes-with-html5-web-storage-api-14d8</guid>
+      <description>&lt;p&gt;Dark-theme is a really simple dark mode library that enables a switcher to toggle between dark and light modes on the web application.&lt;/p&gt;
+
+&lt;p&gt;Written in vanilla JavaScript. Uses HTML5 web storage API (local storage) to save the current theme on the client-side.&lt;/p&gt;
+
+&lt;p&gt;How to use it:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Create a checkbox based toggle switch on the page.
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight html"&gt;&lt;code&gt;&lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;"toggle"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;input&lt;/span&gt; &lt;span class="na"&gt;id=&lt;/span&gt;&lt;span class="s"&gt;"switch"&lt;/span&gt; &lt;span class="na"&gt;type=&lt;/span&gt;&lt;span class="s"&gt;"checkbox"&lt;/span&gt; &lt;span class="na"&gt;name=&lt;/span&gt;&lt;span class="s"&gt;"theme"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;label&lt;/span&gt; &lt;span class="na"&gt;for=&lt;/span&gt;&lt;span class="s"&gt;"switch"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Toggle&lt;span class="nt"&gt;&amp;lt;/label&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight css"&gt;&lt;code&gt;&lt;span class="nt"&gt;input&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="nt"&gt;type&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="nt"&gt;checkbox&lt;/span&gt;&lt;span class="o"&gt;]&lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nl"&gt;height&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;width&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;visibility&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;hidden&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="nt"&gt;label&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nl"&gt;cursor&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;pointer&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;text-indent&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;-9999px&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;width&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;52px&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;height&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;27px&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;background&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;grey&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;float&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;right&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;border-radius&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;100px&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;position&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;relative&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="nt"&gt;label&lt;/span&gt;&lt;span class="nd"&gt;::after&lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nl"&gt;content&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="s2"&gt;''&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;position&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;absolute&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;top&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;3px&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;left&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;3px&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;width&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;20px&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;height&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;20px&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;background-color&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="no"&gt;white&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;border-radius&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;90px&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="nl"&gt;transition&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;0.3s&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="nt"&gt;input&lt;/span&gt;&lt;span class="nd"&gt;:checked&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="nt"&gt;label&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nl"&gt;background-color&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;var&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;--color-headings&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="nt"&gt;input&lt;/span&gt;&lt;span class="nd"&gt;:checked&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="nt"&gt;label&lt;/span&gt;&lt;span class="nd"&gt;::after&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nl"&gt;left&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;calc&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="m"&gt;100%&lt;/span&gt; &lt;span class="n"&gt;-&lt;/span&gt; &lt;span class="m"&gt;5px&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="nl"&gt;transform&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;translateX&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="m"&gt;-100%&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="nt"&gt;label&lt;/span&gt;&lt;span class="nd"&gt;:active:after&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nl"&gt;width&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;45px&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;ol&gt;
+&lt;li&gt;Determine the styles on the light mode using the following CSS variables.
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight css"&gt;&lt;code&gt;&lt;span class="nt"&gt;html&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="py"&gt;--bg&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;#FCFCFC&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="nt"&gt;body&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nl"&gt;background-color&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;var&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;--bg&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;ol&gt;
+&lt;li&gt;The main JavaScript to enable the dark mode switcher and determine the CSS styles on the dark mode.
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight javascript"&gt;&lt;code&gt;&lt;span class="kd"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;html&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;document&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;querySelector&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;html&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="kd"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;checkbox&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;document&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;querySelector&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;input[name=theme]&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+&lt;span class="kd"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;getStyle&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;element&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nx"&gt;style&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;=&amp;gt;&lt;/span&gt; 
+  &lt;span class="nb"&gt;window&lt;/span&gt;
+    &lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;getComputedStyle&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;element&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;getPropertyValue&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;style&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+
+&lt;span class="kd"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;initialColors&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="na"&gt;bg&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nx"&gt;getStyle&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;html&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;--bg&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="kd"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;darkMode&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="na"&gt;bg&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;#333333&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="c1"&gt;// override styles here&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="kd"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;transformKey&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nx"&gt;key&lt;/span&gt; &lt;span class="o"&gt;=&amp;gt;&lt;/span&gt; 
+  &lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;--&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="nx"&gt;key&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;replace&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="sr"&gt;/&lt;/span&gt;&lt;span class="se"&gt;([&lt;/span&gt;&lt;span class="sr"&gt;A-Z&lt;/span&gt;&lt;span class="se"&gt;])&lt;/span&gt;&lt;span class="sr"&gt;/&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;-$1&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;).&lt;/span&gt;&lt;span class="nx"&gt;toLowerCase&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+
+&lt;span class="kd"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;changeColors&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;colors&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;=&amp;gt;&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nb"&gt;Object&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;keys&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;colors&lt;/span&gt;&lt;span class="p"&gt;).&lt;/span&gt;&lt;span class="nx"&gt;map&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;key&lt;/span&gt; &lt;span class="o"&gt;=&amp;gt;&lt;/span&gt; 
+    &lt;span class="nx"&gt;html&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;style&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;setProperty&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;transformKey&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;key&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt; &lt;span class="nx"&gt;colors&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="nx"&gt;key&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt; 
+  &lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+
+&lt;span class="nx"&gt;checkbox&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;addEventListener&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;change&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="p"&gt;({&lt;/span&gt;&lt;span class="nx"&gt;target&lt;/span&gt;&lt;span class="p"&gt;})&lt;/span&gt; &lt;span class="o"&gt;=&amp;gt;&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="nx"&gt;target&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;checked&lt;/span&gt; &lt;span class="p"&gt;?&lt;/span&gt; &lt;span class="nx"&gt;changeColors&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;darkMode&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nx"&gt;changeColors&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;initialColors&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="p"&gt;});&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;ol&gt;
+&lt;li&gt;Create local storage.
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class="highlight js-code-highlight"&gt;
+&lt;pre class="highlight javascript"&gt;&lt;code&gt;&lt;span class="kd"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;isExistLocalStorage&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;key&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;=&amp;gt;&lt;/span&gt; &lt;span class="nx"&gt;localStorage&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;getItem&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;key&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="kc"&gt;null&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="kd"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;createOrEditLocalStorage&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;key&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nx"&gt;value&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;=&amp;gt;&lt;/span&gt;
+  &lt;span class="nx"&gt;localStorage&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;setItem&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;key&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nx"&gt;JSON&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;stringify&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;value&lt;/span&gt;&lt;span class="p"&gt;));&lt;/span&gt;
+
+&lt;span class="kd"&gt;const&lt;/span&gt; &lt;span class="nx"&gt;getValeuLocalStorage&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;key&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;=&amp;gt;&lt;/span&gt; &lt;span class="nx"&gt;JSON&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;parse&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;localStorage&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;getItem&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;key&lt;/span&gt;&lt;span class="p"&gt;));&lt;/span&gt;
+
+&lt;span class="nx"&gt;checkbox&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;addEventListener&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;change&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="p"&gt;({&lt;/span&gt; &lt;span class="nx"&gt;target&lt;/span&gt; &lt;span class="p"&gt;})&lt;/span&gt; &lt;span class="o"&gt;=&amp;gt;&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;target&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;checked&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="nx"&gt;changeColors&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;darkMode&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+    &lt;span class="nx"&gt;createOrEditLocalStorage&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;mode&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;darkMode&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="p"&gt;}&lt;/span&gt; &lt;span class="k"&gt;else&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="nx"&gt;changeColors&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;initialColors&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+    &lt;span class="nx"&gt;createOrEditLocalStorage&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;mode&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;initialColors&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="p"&gt;});&lt;/span&gt;
+
+&lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;&lt;span class="nx"&gt;isExistLocalStorage&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;mode&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+  &lt;span class="nx"&gt;createOrEditLocalStorage&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;mode&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;initialColors&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+
+&lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;getValeuLocalStorage&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;mode&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;===&lt;/span&gt; &lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;initialColors&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nx"&gt;checkbox&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;removeAttribute&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;checked&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="nx"&gt;changeColors&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;initialColors&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt; &lt;span class="k"&gt;else&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="nx"&gt;checkbox&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;setAttribute&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="s2"&gt;checked&lt;/span&gt;&lt;span class="dl"&gt;"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="dl"&gt;""&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="nx"&gt;changeColors&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;darkMode&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight__panel js-actions-panel"&gt;
+&lt;div class="highlight__panel-action js-fullscreen-code-action"&gt;
+    Enter fullscreen mode
+    
+
+
+    Exit fullscreen mode
+    
+
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;Now, try it! &lt;/p&gt;
+
+&lt;p&gt;&lt;iframe height="600" src="https://codepen.io/fariasmateuss/embed/eYdVeYV?height=600&amp;amp;default-tab=result&amp;amp;embed-version=2"&gt;
+&lt;/iframe&gt;
+&lt;/p&gt;
+
+</description>
+      <category>webdev</category>
+      <category>html</category>
+      <category>css</category>
+      <category>javascript</category>
+    </item>
+  </channel>
+</rss>
